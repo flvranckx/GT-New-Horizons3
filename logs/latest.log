@@ -1,71 +1,309 @@
-[20:53:10] [Server thread/INFO]: Starting minecraft server version 1.7.10
-[20:54:06] [Server thread/INFO]: Loading properties
-[20:54:06] [Server thread/INFO]: Default game type: SURVIVAL
-[20:54:06] [Server thread/INFO]: Generating keypair
-[20:54:06] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:55:49] [Server thread/INFO]: Preparing level "World"
-[20:55:51] [Server thread/INFO]: Preparing start region for level 0
-[20:55:52] [Server thread/INFO]: Preparing spawn area: 83%
-[20:55:52] [Server thread/INFO]: Done (10.729s)! For help, type "help" or "?"
-[20:58:16] [User Authenticator #1/INFO]: UUID of player JustDiving is 133bf8c1-805b-491d-9141-f252e4650b13
-[20:58:18] [Server thread/INFO]: JustDiving[/185.215.55.200:29380] logged in with entity id 531 at (359.11428711322844, 71.0, -643.392278439833)
-[20:58:18] [Server thread/INFO]: JustDiving joined the game
-[20:58:36] [User Authenticator #2/INFO]: UUID of player flfloflflo is a8f6a6e1-6e37-44bb-b388-6489f06d63bc
-[20:58:37] [Server thread/INFO]: flfloflflo[/85.201.76.90:55569] logged in with entity id 994 at (351.46265270958673, 63.0, -642.3244811998519)
-[20:58:37] [Server thread/INFO]: flfloflflo joined the game
-[20:58:41] [Server thread/INFO]: <JustDiving> Hi
-[20:58:56] [Server thread/INFO]: <flfloflflo> hi
-[20:59:06] [Server thread/INFO]: <flfloflflo> you were too fast to join ^^
-[20:59:11] [Server thread/INFO]: <flfloflflo> I need one more restart
-[20:59:33] [Server thread/INFO]: [flfloflflo: Stopping the server]
-[20:59:33] [Server thread/INFO]: Stopping server
-[20:59:33] [Server thread/INFO]: Saving players
-[20:59:33] [Server thread/INFO]: Saving worlds
-[20:59:33] [Server thread/INFO]: Saving chunks for level 'World'/Overworld
-[20:59:33] [Server thread/INFO]: Saving chunks for level 'World'/Nether
-[20:59:33] [Server thread/INFO]: Saving chunks for level 'World'/Miranda
-[20:59:33] [Server thread/INFO]: Saving chunks for level 'World'/T Ceti E
-[20:59:33] [Server thread/INFO]: Saving chunks for level 'World'/Vega B
-[20:59:33] [Server thread/INFO]: Saving chunks for level 'World'/Haumea
-[20:59:33] [Server thread/INFO]: Saving chunks for level 'World'/Barnarda F
-[20:59:33] [Server thread/INFO]: Saving chunks for level 'World'/Barnarda E
-[20:59:33] [Server thread/INFO]: Saving chunks for level 'World'/Outer Lands
-[20:59:33] [Server thread/INFO]: Saving chunks for level 'World'/Saturn
-[20:59:33] [Server thread/INFO]: Saving chunks for level 'World'/Neptune
-[20:59:33] [Server thread/INFO]: Saving chunks for level 'World'/Jupiter
-[20:59:33] [Server thread/INFO]: Saving chunks for level 'World'/Mirror
-[20:59:33] [Server thread/INFO]: Saving chunks for level 'World'/Pocket Plane
-[20:59:33] [Server thread/INFO]: Saving chunks for level 'World'/Ross128b
-[20:59:33] [Server thread/INFO]: Saving chunks for level 'World'/Ross128ba
-[20:59:33] [Server thread/INFO]: Saving chunks for level 'World'/Bedrock
-[20:59:33] [Server thread/INFO]: Saving chunks for level 'World'/Torment
-[20:59:33] [Server thread/INFO]: Saving chunks for level 'World'/Spirit World
-[20:59:33] [Server thread/INFO]: Saving chunks for level 'World'/Uranus
-[20:59:33] [Server thread/INFO]: Saving chunks for level 'World'/The Outer Lands
-[20:59:33] [Server thread/INFO]: Saving chunks for level 'World'/Pluto
-[20:59:33] [Server thread/INFO]: Saving chunks for level 'World'/Triton
-[20:59:33] [Server thread/INFO]: Saving chunks for level 'World'/Proteus
-[20:59:33] [Server thread/INFO]: Saving chunks for level 'World'/Oberon
-[20:59:33] [Server thread/INFO]: Saving chunks for level 'World'/Callisto
-[20:59:33] [Server thread/INFO]: Saving chunks for level 'World'/Titan
-[20:59:33] [Server thread/INFO]: Saving chunks for level 'World'/Ganymede
-[20:59:33] [Server thread/INFO]: Saving chunks for level 'World'/Ceres
-[20:59:33] [Server thread/INFO]: Saving chunks for level 'World'/Enceladus
-[20:59:33] [Server thread/INFO]: Saving chunks for level 'World'/Deimos
-[20:59:33] [Server thread/INFO]: Saving chunks for level 'World'/Venus
-[20:59:33] [Server thread/INFO]: Saving chunks for level 'World'/Phobos
-[20:59:33] [Server thread/INFO]: Saving chunks for level 'World'/Mercury
-[20:59:33] [Server thread/INFO]: Saving chunks for level 'World'/dimensionDarkWorld
-[20:59:33] [Server thread/INFO]: Saving chunks for level 'World'/Io
-[20:59:33] [Server thread/INFO]: Saving chunks for level 'World'/Europa
-[20:59:33] [Server thread/INFO]: Saving chunks for level 'World'/Kuiper Belt
-[20:59:33] [Server thread/INFO]: Saving chunks for level 'World'/Barnarda C
-[20:59:33] [Server thread/INFO]: Saving chunks for level 'World'/α Centauri Bb
-[20:59:33] [Server thread/INFO]: Saving chunks for level 'World'/Asteroids
-[20:59:33] [Server thread/INFO]: Saving chunks for level 'World'/Mars
-[20:59:33] [Server thread/INFO]: Saving chunks for level 'World'/Moon
-[20:59:33] [Server thread/INFO]: Saving chunks for level 'World'/Makemake
-[20:59:33] [Server thread/INFO]: Saving chunks for level 'World'/The Last Millenium
-[20:59:33] [Server thread/INFO]: Saving chunks for level 'World'/Twilight Forest
-[20:59:33] [Server thread/INFO]: Saving chunks for level 'World'/Underdark
-[20:59:33] [Server thread/INFO]: Saving chunks for level 'World'/SpectreWorld
+[21:02:12] [Server thread/INFO]: Starting minecraft server version 1.7.10
+[21:03:05] [Server thread/INFO]: Loading properties
+[21:03:05] [Server thread/INFO]: Default game type: SURVIVAL
+[21:03:05] [Server thread/INFO]: Generating keypair
+[21:03:05] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:04:42] [Server thread/INFO]: Preparing level "World"
+[21:04:44] [Server thread/INFO]: Preparing start region for level 0
+[21:04:45] [Server thread/INFO]: Preparing spawn area: 95%
+[21:04:45] [Server thread/INFO]: Done (10.290s)! For help, type "help" or "?"
+[21:05:18] [User Authenticator #1/INFO]: UUID of player flfloflflo is a8f6a6e1-6e37-44bb-b388-6489f06d63bc
+[21:05:19] [Server thread/INFO]: flfloflflo[/85.201.76.90:60375] logged in with entity id 525 at (352.4432405634021, 63.0, -642.0918479376737)
+[21:05:19] [Server thread/INFO]: flfloflflo joined the game
+[21:06:39] [User Authenticator #2/INFO]: UUID of player JustDiving is 133bf8c1-805b-491d-9141-f252e4650b13
+[21:06:40] [Server thread/INFO]: JustDiving[/185.215.55.200:29201] logged in with entity id 1959 at (356.30000001192093, 70.0, -645.5716264553754)
+[21:06:40] [Server thread/INFO]: JustDiving joined the game
+[21:07:18] [Server thread/INFO]: <flfloflflo> You guys played so much today
+[21:07:28] [Server thread/INFO]: <JustDiving> Yes we did
+[21:07:38] [Server thread/INFO]: <JustDiving> Recovered quite fast
+[21:08:13] [Server thread/INFO]: <JustDiving> Is nether portal the same here?
+[21:08:22] [Server thread/INFO]: <flfloflflo> I think so
+[21:08:52] [Server thread/INFO]: <flfloflflo> did you find more lava ?
+[21:09:11] [Server thread/INFO]: <JustDiving> no, but i heard it somewhere)
+[21:09:18] [Server thread/INFO]: <JustDiving> Ah, the diamond vein I think
+[21:09:38] [Server thread/INFO]: <JustDiving> I dug it down to y12 i think
+[21:10:07] [Server thread/INFO]: <JustDiving> What do we need rn?
+[21:10:14] [Server thread/INFO]: <flfloflflo> copper and tin
+[21:10:27] [Server thread/INFO]: <JustDiving> Gotcha
+[21:11:04] [Server thread/INFO]: <flfloflflo> I'm making myself a dope pickaxe first
+[21:11:11] [Server thread/INFO]: <JustDiving> Fair)
+[21:11:35] [Server thread/INFO]: <flfloflflo> if you want to improve yours, you can replace the binding with a paper one
+[21:11:58] [Server thread/INFO]: <JustDiving> I've still got 2 modifiers left
+[21:12:05] [Server thread/INFO]: <flfloflflo> then redstone
+[21:12:12] [Server thread/INFO]: <flfloflflo> found lava
+[21:12:16] [Server thread/INFO]: <flfloflflo> under the house
+[21:12:27] [Server thread/INFO]: <JustDiving> I'd use up everything we have, do we need redstone?
+[21:12:35] [Server thread/INFO]: <flfloflflo> not yet
+[21:12:39] [Server thread/INFO]: <JustDiving> Ok
+[21:12:43] [Server thread/INFO]: <flfloflflo> and there is a vein right under us
+[21:12:55] [Server thread/INFO]: <JustDiving> Manganese
+[21:12:56] [Server thread/INFO]: <JustDiving> Yeah
+[21:14:01] [Server thread/INFO]: <flfloflflo> where to put ingots ?
+[21:14:11] [Server thread/INFO]: <JustDiving> here
+[21:14:33] [Server thread/INFO]: <flfloflflo> do you have a metal bucket ?
+[21:14:44] [Server thread/INFO]: <flfloflflo> thanks
+[21:14:47] [Server thread/INFO]: <JustDiving> np
+[21:14:59] [Server thread/INFO]: <JustDiving> Make sure you put them on the correct slots
+[21:15:09] [Server thread/INFO]: <flfloflflo> don't worry ;)
+[21:15:13] [Server thread/INFO]: <JustDiving> )
+[21:17:03] [Server thread/INFO]: There are 2/20 players online:
+[21:17:03] [Server thread/INFO]: flfloflflo, JustDiving
+[21:19:27] [Server thread/INFO]: Server manually started a backup...
+[21:19:27] [Thread-18/INFO]: Backup starting - prepare for possible lag...
+[21:19:28] [Thread-18/INFO]: Worlds saved.
+[21:19:49] [Thread-18/INFO]: Backup finished.
+[21:25:56] [Server thread/INFO]: flfloflflo has just earned the achievement [Benchmarking]
+[21:26:51] [Server thread/INFO]: [flfloflflo: Game rule has been updated]
+[21:26:54] [Server thread/INFO]: <JustDiving> 5 stacks of tin mined
+[21:27:26] [Server thread/INFO]: <JustDiving> Is bronze pick better than iron?
+[21:27:35] [Server thread/INFO]: <flfloflflo> i don't think so
+[21:29:33] [Server thread/INFO]: <flfloflflo> can you drop me the bucket ?
+[21:29:49] [Server thread/INFO]: <JustDiving> Only that
+[21:29:54] [Server thread/INFO]: <JustDiving> You got the iron one
+[21:30:03] [Server thread/INFO]: <flfloflflo> I think i dropped it on you
+[21:30:10] [Server thread/INFO]: <JustDiving> Don't have it
+[21:30:14] [Server thread/INFO]: <flfloflflo> wut
+[21:30:17] [Server thread/INFO]: <JustDiving> Ah
+[21:30:18] [Server thread/INFO]: <JustDiving> Here it is
+[21:30:24] [Server thread/INFO]: <JustDiving> 2 floor
+[21:30:26] [Server thread/INFO]: <JustDiving> lol
+[21:30:39] [Server thread/INFO]: <JustDiving> )
+[21:30:44] [Server thread/INFO]: <flfloflflo> ...
+[21:30:51] [Server thread/INFO]: <JustDiving> Nice gloves
+[21:31:32] [Server thread/INFO]: <flfloflflo> btw
+[21:31:40] [Server thread/INFO]: <flfloflflo> creosote is a nice furnace fuel
+[21:31:45] [Server thread/INFO]: <flfloflflo> 32 item per bucket
+[21:31:51] [Server thread/INFO]: <JustDiving> Yeah i know
+[21:32:03] [Server thread/INFO]: There are 2/20 players online:
+[21:32:03] [Server thread/INFO]: flfloflflo, JustDiving
+[21:34:22] [Server thread/INFO]: <JustDiving> Have you found a copper vein?
+[21:35:44] [Server thread/INFO]: Server manually started a backup...
+[21:35:44] [Thread-20/INFO]: Backup starting - prepare for possible lag...
+[21:35:45] [Thread-20/INFO]: Worlds saved.
+[21:36:06] [Thread-20/INFO]: Backup finished.
+[21:38:47] [Server thread/INFO]: <JustDiving> Minersand
+[21:38:49] [Server thread/INFO]: <JustDiving> Ok then
+[21:39:00] [Server thread/INFO]: <JustDiving> Mineral
+[21:39:02] [Server thread/INFO]: <JustDiving> yeah
+[21:39:10] [Server thread/INFO]: <flfloflflo> iron ?
+[21:39:21] [Server thread/INFO]: <JustDiving> Basically
+[21:42:09] [Server thread/INFO]: <flfloflflo> wanna wreck an entire vein ?
+[21:42:18] [Server thread/INFO]: <JustDiving> What kind?)
+[21:42:23] [Server thread/INFO]: <flfloflflo> chalcopyrite
+[21:42:32] [Server thread/INFO]: <JustDiving> Tf is that?? XD
+[21:42:38] [Server thread/INFO]: <flfloflflo> copper and iron
+[21:42:46] [Server thread/INFO]: <JustDiving> Yeah, sounds dope
+[21:42:52] [Server thread/INFO]: <JustDiving> Coming
+[21:45:10] [Server thread/INFO]: <flfloflflo> emptying my inv
+[21:46:11] [Server thread/INFO]: <flfloflflo> got torches ?
+[21:46:24] [Server thread/INFO]: <JustDiving> Only 9)
+[21:46:35] [Server thread/INFO]: <flfloflflo> make about a stack
+[21:46:40] [Server thread/INFO]: <JustDiving> kk
+[21:47:03] [Server thread/INFO]: There are 2/20 players online:
+[21:47:03] [Server thread/INFO]: flfloflflo, JustDiving
+[21:47:07] [Server thread/INFO]: <flfloflflo> and clean you env because you are going to need space
+[21:47:20] [Server thread/INFO]: <JustDiving> Understood
+[21:48:28] [Server thread/INFO]: <flfloflflo> ready when you are
+[21:49:58] [Server thread/INFO]: <JustDiving> done/
+[21:50:09] [Server thread/INFO]: <flfloflflo> you got an iron pick right ?
+[21:50:13] [Server thread/INFO]: <JustDiving> yep
+[21:52:08] [Server thread/INFO]: Server manually started a backup...
+[21:52:08] [Thread-22/INFO]: Backup starting - prepare for possible lag...
+[21:52:09] [Thread-22/INFO]: Worlds saved.
+[21:52:30] [Thread-22/INFO]: Backup finished.
+[21:54:10] [Server thread/INFO]: <flfloflflo> alright
+[21:54:36] [Server thread/INFO]: <flfloflflo> veins are 7 cube high
+[21:54:43] [Server thread/INFO]: <JustDiving> huh, ok
+[21:54:44] [Server thread/INFO]: <flfloflflo> try to mine only the first 3
+[21:54:59] [Server thread/INFO]: <flfloflflo> then we go under and mine the last three
+[22:02:04] [Server thread/INFO]: There are 2/20 players online:
+[22:02:04] [Server thread/INFO]: flfloflflo, JustDiving
+[22:02:58] [Server thread/INFO]: <JustDiving> Lava
+[22:03:11] [Server thread/INFO]: <flfloflflo> shit
+[22:08:04] [Server thread/INFO]: <flfloflflo> so much lava
+[22:08:14] [Server thread/INFO]: <JustDiving> y 10
+[22:08:22] [Server thread/INFO]: Server manually started a backup...
+[22:08:22] [Thread-24/INFO]: Backup starting - prepare for possible lag...
+[22:08:23] [Thread-24/INFO]: Worlds saved.
+[22:08:45] [Thread-24/INFO]: Backup finished.
+[22:14:35] [Server thread/INFO]: <JustDiving> That seems about right/
+[22:14:40] [Server thread/INFO]: <flfloflflo> yup
+[22:15:11] [Server thread/INFO]: <flfloflflo> 29 pyrite 3 stack chalco
+[22:15:15] [Server thread/INFO]: <flfloflflo> and 32 copper
+[22:15:56] [Server thread/INFO]: <flfloflflo> lets go back and mine some tin
+[22:16:04] [Server thread/INFO]: <flfloflflo> so we can make the macerator
+[22:16:05] [Server thread/INFO]: <JustDiving> We've got 5 stacks
+[22:16:09] [Server thread/INFO]: <JustDiving> of tin
+[22:16:13] [Server thread/INFO]: <flfloflflo> ho
+[22:16:16] [Server thread/INFO]: <JustDiving> Yeah
+[22:16:16] [Server thread/INFO]: <flfloflflo> lets go then
+[22:16:48] [Server thread/INFO]: <flfloflflo> you got a bed ?
+[22:16:55] [Server thread/INFO]: <JustDiving> no....
+[22:17:04] [Server thread/INFO]: There are 2/20 players online:
+[22:17:04] [Server thread/INFO]: flfloflflo, JustDiving
+[22:21:05] [Server thread/INFO]: <flfloflflo> we need the small boiler and macerator
+[22:21:25] [Server thread/INFO]: <JustDiving> Is there a quest?
+[22:21:46] [Server thread/INFO]: <flfloflflo> after bronze
+[22:21:53] [Server thread/INFO]: <JustDiving> understood
+[22:23:05] [Server thread/INFO]: <flfloflflo> the brick shaper ?
+[22:23:42] [Server thread/INFO]: <JustDiving> ?
+[22:23:48] [Server thread/INFO]: <flfloflflo> found it
+[22:24:14] [Server thread/INFO]: <JustDiving> Bronze pick is better
+[22:24:17] [Server thread/INFO]: <JustDiving> than iron
+[22:24:30] [Server thread/INFO]: Server manually started a backup...
+[22:24:30] [Thread-26/INFO]: Backup starting - prepare for possible lag...
+[22:24:31] [Thread-26/INFO]: Worlds saved.
+[22:24:53] [Thread-26/INFO]: Backup finished.
+[22:26:49] [Server thread/INFO]: <JustDiving> Just slightly better pick
+[22:28:16] [Server thread/INFO]: <JustDiving> Have you done thaumcraft here?
+[22:28:29] [Server thread/INFO]: <flfloflflo> i did
+[22:28:35] [Server thread/INFO]: <flfloflflo> it's mandatory to reach ev
+[22:28:44] [Server thread/INFO]: <JustDiving> and when does it start?
+[22:28:53] [Server thread/INFO]: <flfloflflo> mmmmmh
+[22:29:01] [Server thread/INFO]: <flfloflflo> If you want to start early
+[22:29:04] [Server thread/INFO]: <flfloflflo> I think mv
+[22:29:08] [Server thread/INFO]: <JustDiving> Holy
+[22:29:18] [Server thread/INFO]: <JustDiving> That progression line is weird man XD
+[22:29:20] [Server thread/INFO]: <flfloflflo> we need access to the twilight forest for that
+[22:29:25] [Server thread/INFO]: <flfloflflo> which is lv
+[22:29:51] [Server thread/INFO]: <JustDiving> I will make an electric assembly line, and only then i can wave a magic wand
+[22:29:52] [Server thread/INFO]: <JustDiving> lol
+[22:30:02] [Server thread/INFO]: <flfloflflo> hahhahha
+[22:31:07] [Server thread/INFO]: <JustDiving> At least i can be a beekeper rn
+[22:31:22] [Server thread/INFO]: <flfloflflo> yes but limited
+[22:31:33] [Server thread/INFO]: <JustDiving> Breeding works, i think
+[22:32:04] [Server thread/INFO]: There are 2/20 players online:
+[22:32:04] [Server thread/INFO]: flfloflflo, JustDiving
+[22:37:21] [Server thread/INFO]: <JustDiving> Hey
+[22:37:31] [Server thread/INFO]: <JustDiving> Here
+[22:37:50] [Server thread/INFO]: <flfloflflo> thanks !
+[22:38:01] [Server thread/INFO]: <JustDiving> np
+[22:38:15] [Server thread/INFO]: <JustDiving> I made mine too quickly, a quest required them)
+[22:39:07] [Server thread/INFO]: <flfloflflo> have you read the quest for the ball of moss
+[22:39:40] [Server thread/INFO]: <JustDiving> Jesus
+[22:39:50] [Server thread/INFO]: <JustDiving> Have a beer, haha!
+[22:40:02] [Server thread/INFO]: <JustDiving> I'll need vodka for that journey
+[22:40:17] [Server thread/INFO]: <JustDiving> But beer is good indeed
+[22:40:39] [Server thread/INFO]: <JustDiving> Wow
+[22:40:39] [Server thread/INFO]: Server manually started a backup...
+[22:40:39] [Thread-29/INFO]: Backup starting - prepare for possible lag...
+[22:40:41] [Thread-29/INFO]: Worlds saved.
+[22:40:41] [Server thread/INFO]: <JustDiving> Nice
+[22:41:02] [Thread-29/INFO]: Backup finished.
+[22:41:12] [Server thread/INFO]: <flfloflflo> why vodka when you can drink 3L of beer
+[22:41:17] [Server thread/INFO]: <flfloflflo> belgian style
+[22:41:20] [Server thread/INFO]: <JustDiving> ...
+[22:41:25] [Server thread/INFO]: <JustDiving> That's just wrond
+[22:41:29] [Server thread/INFO]: <JustDiving> Cheaper, but wrong
+[22:41:54] [Server thread/INFO]: <flfloflflo> as a studet, my 25 cent beer per bottle was nice
+[22:42:14] [Server thread/INFO]: <JustDiving> I get insane headaches from beer
+[22:42:32] [Server thread/INFO]: <flfloflflo> you get used to it if you drink everyday ...
+[22:42:34] [Server thread/INFO]: <JustDiving> Vodka on the over hand, mix it with soda, and I am chilling
+[22:42:42] [Server thread/INFO]: <JustDiving> So?)
+[22:42:52] [Server thread/INFO]: <flfloflflo> ^^
+[22:43:08] [Server thread/INFO]: <JustDiving> Drinking culture in East Europe is... heavy
+[22:43:25] [Server thread/INFO]: <flfloflflo> I know hahahah
+[22:43:57] [Server thread/INFO]: <flfloflflo> and culture from france
+[22:44:01] [Server thread/INFO]: <flfloflflo> is eating this
+[22:44:06] [Server thread/INFO]: <JustDiving> ew
+[22:44:22] [Server thread/INFO]: <JustDiving> That's wrong
+[22:44:23] [Server thread/INFO]: <flfloflflo> i'm belgian by the way
+[22:44:38] [Server thread/INFO]: <JustDiving> And I am Russian)
+[22:44:47] [Server thread/INFO]: <flfloflflo> I guessed last time
+[22:44:50] [Server thread/INFO]: <JustDiving> Belgium
+[22:45:02] [Server thread/INFO]: <JustDiving> Is it the one with the waffles or smth?))
+[22:45:14] [Server thread/INFO]: <JustDiving> waffles and fries, as i recall
+[22:45:26] [Server thread/INFO]: <flfloflflo> waffle, chocolate, beer
+[22:45:31] [Server thread/INFO]: <flfloflflo> fried as well
+[22:45:34] [Server thread/INFO]: <JustDiving> Nice nice
+[22:45:35] [Server thread/INFO]: <flfloflflo> fries
+[22:46:09] [Server thread/INFO]: <JustDiving> I am scared to touch that boiler
+[22:46:11] [Server thread/INFO]: <flfloflflo> i need a diamond
+[22:46:19] [Server thread/INFO]: <JustDiving> can we mine them?
+[22:46:26] [Server thread/INFO]: <flfloflflo> I think so
+[22:46:31] [Server thread/INFO]: <JustDiving> I got 03-tin level
+[22:46:37] [Server thread/INFO]: <JustDiving> ok, Ill try
+[22:46:45] [Server thread/INFO]: <flfloflflo> don't worry, it cannot explode if it's against a reservoir
+[22:46:55] [Server thread/INFO]: <JustDiving> Ok cool)
+[22:47:04] [Server thread/INFO]: There are 2/20 players online:
+[22:47:04] [Server thread/INFO]: flfloflflo, JustDiving
+[22:47:04] [Server thread/INFO]: <flfloflflo> you might need to level up you pick
+[22:47:11] [Server thread/INFO]: <flfloflflo> the mining level xp
+[22:47:23] [Server thread/INFO]: <JustDiving> What's your's pick level?
+[22:47:27] [Server thread/INFO]: <flfloflflo> 4
+[22:47:39] [Server thread/INFO]: <flfloflflo> but there is a secondary xp bar
+[22:47:44] [Server thread/INFO]: <JustDiving> Yep
+[22:47:46] [Server thread/INFO]: <JustDiving> it's 4
+[22:47:50] [Server thread/INFO]: <JustDiving> redstone level
+[22:48:10] [Server thread/INFO]: <flfloflflo> well, you need to up that pick
+[22:49:39] [Server thread/INFO]: <JustDiving> this is a diamond vein
+[22:50:02] [Server thread/INFO]: <JustDiving> I'll level up my pick later
+[22:52:11] [Server thread/INFO]: <flfloflflo> ouch
+[22:52:17] [Server thread/INFO]: <flfloflflo> need redtone
+[22:52:20] [Server thread/INFO]: <flfloflflo> redstone
+[22:52:25] [Server thread/INFO]: <JustDiving> np
+[22:52:53] [Server thread/INFO]: <flfloflflo> wait, I'm going to to sleep
+[22:53:02] [Server thread/INFO]: <flfloflflo> I cannot play twice until 2 am
+[22:53:09] [Server thread/INFO]: <JustDiving> Understandable))
+[22:53:13] [Server thread/INFO]: <flfloflflo> I was a zombie at work today :p
+[22:53:19] [Server thread/INFO]: <JustDiving> Same
+[22:53:51] [Server thread/INFO]: <flfloflflo> are you also going to disconnect ?
+[22:54:01] [Server thread/INFO]: <JustDiving> yeah
+[22:54:19] [Server thread/INFO]: <flfloflflo> alright, I'll close the server then
+[22:54:28] [Server thread/INFO]: <flfloflflo> See ya
+[22:54:33] [Server thread/INFO]: <flfloflflo> and gn
+[22:54:41] [Server thread/INFO]: <JustDiving> Good luck and Good night)
+[22:54:42] [Server thread/INFO]: JustDiving lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[22:54:42] [Server thread/INFO]: JustDiving left the game
+[22:54:47] [Server thread/INFO]: [flfloflflo: Stopping the server]
+[22:54:47] [Server thread/INFO]: Stopping server
+[22:54:47] [Server thread/INFO]: Saving players
+[22:54:47] [Server thread/INFO]: Saving worlds
+[22:54:47] [Server thread/INFO]: Saving chunks for level 'World'/Overworld
+[22:54:48] [Server thread/INFO]: Saving chunks for level 'World'/Nether
+[22:54:48] [Server thread/INFO]: Saving chunks for level 'World'/Miranda
+[22:54:48] [Server thread/INFO]: Saving chunks for level 'World'/T Ceti E
+[22:54:48] [Server thread/INFO]: Saving chunks for level 'World'/Vega B
+[22:54:48] [Server thread/INFO]: Saving chunks for level 'World'/Haumea
+[22:54:48] [Server thread/INFO]: Saving chunks for level 'World'/Barnarda F
+[22:54:48] [Server thread/INFO]: Saving chunks for level 'World'/Barnarda E
+[22:54:48] [Server thread/INFO]: Saving chunks for level 'World'/Outer Lands
+[22:54:48] [Server thread/INFO]: Saving chunks for level 'World'/Saturn
+[22:54:48] [Server thread/INFO]: Saving chunks for level 'World'/Neptune
+[22:54:48] [Server thread/INFO]: Saving chunks for level 'World'/Jupiter
+[22:54:48] [Server thread/INFO]: Saving chunks for level 'World'/Mirror
+[22:54:48] [Server thread/INFO]: Saving chunks for level 'World'/Pocket Plane
+[22:54:48] [Server thread/INFO]: Saving chunks for level 'World'/Ross128b
+[22:54:48] [Server thread/INFO]: Saving chunks for level 'World'/Ross128ba
+[22:54:48] [Server thread/INFO]: Saving chunks for level 'World'/Bedrock
+[22:54:48] [Server thread/INFO]: Saving chunks for level 'World'/Torment
+[22:54:48] [Server thread/INFO]: Saving chunks for level 'World'/Spirit World
+[22:54:48] [Server thread/INFO]: Saving chunks for level 'World'/Uranus
+[22:54:48] [Server thread/INFO]: Saving chunks for level 'World'/The Outer Lands
+[22:54:48] [Server thread/INFO]: Saving chunks for level 'World'/Pluto
+[22:54:48] [Server thread/INFO]: Saving chunks for level 'World'/Triton
+[22:54:48] [Server thread/INFO]: Saving chunks for level 'World'/Proteus
+[22:54:48] [Server thread/INFO]: Saving chunks for level 'World'/Oberon
+[22:54:48] [Server thread/INFO]: Saving chunks for level 'World'/Callisto
+[22:54:48] [Server thread/INFO]: Saving chunks for level 'World'/Titan
+[22:54:48] [Server thread/INFO]: Saving chunks for level 'World'/Ganymede
+[22:54:48] [Server thread/INFO]: Saving chunks for level 'World'/Ceres
+[22:54:48] [Server thread/INFO]: Saving chunks for level 'World'/Enceladus
+[22:54:48] [Server thread/INFO]: Saving chunks for level 'World'/Deimos
+[22:54:48] [Server thread/INFO]: Saving chunks for level 'World'/Venus
+[22:54:48] [Server thread/INFO]: Saving chunks for level 'World'/Phobos
+[22:54:48] [Server thread/INFO]: Saving chunks for level 'World'/Mercury
+[22:54:48] [Server thread/INFO]: Saving chunks for level 'World'/dimensionDarkWorld
+[22:54:48] [Server thread/INFO]: Saving chunks for level 'World'/Io
+[22:54:48] [Server thread/INFO]: Saving chunks for level 'World'/Europa
+[22:54:48] [Server thread/INFO]: Saving chunks for level 'World'/Kuiper Belt
+[22:54:48] [Server thread/INFO]: Saving chunks for level 'World'/Barnarda C
+[22:54:48] [Server thread/INFO]: Saving chunks for level 'World'/α Centauri Bb
+[22:54:48] [Server thread/INFO]: Saving chunks for level 'World'/Asteroids
+[22:54:48] [Server thread/INFO]: Saving chunks for level 'World'/Mars
+[22:54:48] [Server thread/INFO]: Saving chunks for level 'World'/Moon
+[22:54:48] [Server thread/INFO]: Saving chunks for level 'World'/Makemake
+[22:54:48] [Server thread/INFO]: Saving chunks for level 'World'/The Last Millenium
+[22:54:48] [Server thread/INFO]: Saving chunks for level 'World'/Twilight Forest
+[22:54:48] [Server thread/INFO]: Saving chunks for level 'World'/Underdark
+[22:54:48] [Server thread/INFO]: Saving chunks for level 'World'/SpectreWorld
