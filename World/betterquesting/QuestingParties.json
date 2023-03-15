@@ -7,6 +7,10 @@
 					"status:8": "OWNER"
 				},
 				"1:10": {
+					"uuid:8": "a8f6a6e1-6e37-44bb-b388-6489f06d63bc",
+					"status:8": "MEMBER"
+				},
+				"2:10": {
 					"uuid:8": "33f9fa35-156a-4fc6-81c8-2ef8ece1065f",
 					"status:8": "MEMBER"
 				}
