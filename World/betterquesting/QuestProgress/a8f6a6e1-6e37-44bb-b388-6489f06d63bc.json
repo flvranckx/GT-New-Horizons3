@@ -12697,7 +12697,15 @@
 			"tasks:9": {
 				"0:10": {
 					"completeUsers:9": {},
-					"userProgress:9": {},
+					"userProgress:9": {
+						"0:10": {
+							"data:11": [
+								0,
+								1
+							],
+							"uuid:8": "a8f6a6e1-6e37-44bb-b388-6489f06d63bc"
+						}
+					},
 					"index:3": 0,
 					"taskID:8": "bq_standard:retrieval"
 				}
@@ -14578,7 +14586,7 @@
 						"0:10": {
 							"data:11": [
 								1,
-								0
+								11
 							],
 							"uuid:8": "a8f6a6e1-6e37-44bb-b388-6489f06d63bc"
 						}
@@ -19988,7 +19996,7 @@
 					"userProgress:9": {
 						"0:10": {
 							"data:11": [
-								0
+								11
 							],
 							"uuid:8": "a8f6a6e1-6e37-44bb-b388-6489f06d63bc"
 						}
@@ -41017,7 +41025,7 @@
 							"data:11": [
 								0,
 								8,
-								0,
+								1,
 								8
 							],
 							"uuid:8": "a8f6a6e1-6e37-44bb-b388-6489f06d63bc"
