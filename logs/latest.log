@@ -1,108 +1,137 @@
-[11:06:45] [Server thread/INFO]: Starting minecraft server version 1.7.10
-[11:07:40] [Server thread/INFO]: Loading properties
-[11:07:40] [Server thread/INFO]: Default game type: SURVIVAL
-[11:07:40] [Server thread/INFO]: Generating keypair
-[11:07:40] [Server thread/INFO]: Starting Minecraft server on *:25565
-[11:09:18] [Server thread/INFO]: Preparing level "World"
-[11:09:20] [Server thread/INFO]: Preparing start region for level 0
-[11:09:21] [Server thread/INFO]: Preparing spawn area: 83%
-[11:09:21] [Server thread/INFO]: Done (10.507s)! For help, type "help" or "?"
-[11:10:13] [User Authenticator #1/INFO]: UUID of player _0x40_ is 33f9fa35-156a-4fc6-81c8-2ef8ece1065f
-[11:10:14] [Server thread/INFO]: _0x40_[/158.174.229.88:55564] logged in with entity id 644 at (138.69999998807907, 81.0, -63.536403695077276)
-[11:10:14] [Server thread/INFO]: _0x40_ joined the game
-[11:21:37] [Server thread/INFO]: There are 1/20 players online:
-[11:21:37] [Server thread/INFO]: _0x40_
-[11:28:29] [User Authenticator #2/INFO]: UUID of player JustDiving is 133bf8c1-805b-491d-9141-f252e4650b13
-[11:28:30] [Server thread/INFO]: JustDiving[/185.215.55.200:29383] logged in with entity id 15749 at (105.30000001192093, 66.0, -480.300000011921)
-[11:28:30] [Server thread/INFO]: JustDiving joined the game
-[11:31:13] [Server thread/INFO]: JustDiving has just earned the achievement [Benchmarking]
-[11:32:18] [Server thread/INFO]: JustDiving has just earned the achievement [Time to Mine!]
-[11:32:18] [Server thread/INFO]: JustDiving has just earned the achievement [Getting an Upgrade]
-[11:32:18] [Server thread/INFO]: JustDiving has just earned the achievement [First Tools]
-[11:32:23] [Server thread/INFO]: JustDiving has just earned the achievement [Time to Farm!]
-[11:35:52] [Server thread/INFO]: JustDiving has just earned the achievement [Time to Strike!]
-[11:36:10] [Server thread/INFO]: _0x40_ has just earned the achievement [Time to Farm!]
-[11:36:35] [Server thread/INFO]: <JustDiving> Making the base at the same place?
-[11:36:37] [Server thread/INFO]: There are 2/20 players online:
-[11:36:37] [Server thread/INFO]: _0x40_, JustDiving
-[11:37:12] [Server thread/INFO]: <_0x40_> yeah I guess
-[11:37:18] [Server thread/INFO]: JustDiving has just earned the achievement [Cow Tipper]
-[11:48:03] [Server thread/INFO]: JustDiving has just earned the achievement [Monster Hunter]
-[11:51:37] [Server thread/INFO]: There are 2/20 players online:
-[11:51:37] [Server thread/INFO]: _0x40_, JustDiving
-[11:59:31] [Server thread/INFO]: <JustDiving> Bed!
-[12:00:00] [Thread-21/INFO]: Backup starting - prepare for possible lag...
-[12:00:01] [Thread-21/INFO]: Worlds saved.
-[12:00:18] [Thread-21/INFO]: Backup finished.
-[12:03:06] [Server thread/INFO]: JustDiving has just earned the achievement [Hot Topic]
-[12:04:19] [Server thread/INFO]: <JustDiving> I'll go cook something
-[12:04:22] [Server thread/INFO]: <JustDiving> Bed is here
-[12:04:28] [Server thread/INFO]: <JustDiving> brb
-[12:04:31] [Server thread/INFO]: <_0x40_> alright
-[12:04:36] [Server thread/INFO]: <_0x40_> I planted some cotton
-[12:04:50] [Server thread/INFO]: <JustDiving> Nice
-[12:04:52] [Server thread/INFO]: JustDiving lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[12:04:52] [Server thread/INFO]: JustDiving left the game
-[12:05:56] [Server thread/INFO]: _0x40_ has just earned the achievement [Hot Topic]
-[12:06:37] [Server thread/INFO]: There are 1/20 players online:
-[12:06:37] [Server thread/INFO]: _0x40_
-[12:16:19] [User Authenticator #3/INFO]: UUID of player JustDiving is 133bf8c1-805b-491d-9141-f252e4650b13
-[12:16:20] [Server thread/INFO]: JustDiving[/185.215.55.200:29408] logged in with entity id 92390 at (344.7806439192681, 65.875, -633.9388859355734)
-[12:16:20] [Server thread/INFO]: JustDiving joined the game
-[12:19:51] [Server thread/INFO]: [Server] can I restart
-[12:19:51] [Server thread/INFO]: Unknown command. Try /help for a list of commands
-[12:19:55] [Server thread/INFO]: <_0x40_> sure
-[12:19:56] [Server thread/INFO]: <JustDiving> Sure
-[12:20:52] [Server thread/INFO]: Stopping the server
-[12:20:52] [Server thread/INFO]: Unknown command. Try /help for a list of commands
-[12:20:52] [Server thread/INFO]: Stopping server
-[12:20:52] [Server thread/INFO]: Saving players
-[12:20:52] [Server thread/INFO]: Saving worlds
-[12:20:52] [Server thread/INFO]: Saving chunks for level 'World'/Overworld
-[12:20:52] [Server thread/INFO]: Saving chunks for level 'World'/Nether
-[12:20:52] [Server thread/INFO]: Saving chunks for level 'World'/Miranda
-[12:20:52] [Server thread/INFO]: Saving chunks for level 'World'/T Ceti E
-[12:20:52] [Server thread/INFO]: Saving chunks for level 'World'/Vega B
-[12:20:52] [Server thread/INFO]: Saving chunks for level 'World'/Haumea
-[12:20:52] [Server thread/INFO]: Saving chunks for level 'World'/Barnarda F
-[12:20:52] [Server thread/INFO]: Saving chunks for level 'World'/Barnarda E
-[12:20:52] [Server thread/INFO]: Saving chunks for level 'World'/Outer Lands
-[12:20:52] [Server thread/INFO]: Saving chunks for level 'World'/Saturn
-[12:20:52] [Server thread/INFO]: Saving chunks for level 'World'/Neptune
-[12:20:52] [Server thread/INFO]: Saving chunks for level 'World'/Jupiter
-[12:20:52] [Server thread/INFO]: Saving chunks for level 'World'/Mirror
-[12:20:52] [Server thread/INFO]: Saving chunks for level 'World'/Pocket Plane
-[12:20:52] [Server thread/INFO]: Saving chunks for level 'World'/Ross128b
-[12:20:52] [Server thread/INFO]: Saving chunks for level 'World'/Ross128ba
-[12:20:52] [Server thread/INFO]: Saving chunks for level 'World'/Bedrock
-[12:20:52] [Server thread/INFO]: Saving chunks for level 'World'/Torment
-[12:20:52] [Server thread/INFO]: Saving chunks for level 'World'/Spirit World
-[12:20:52] [Server thread/INFO]: Saving chunks for level 'World'/Uranus
-[12:20:52] [Server thread/INFO]: Saving chunks for level 'World'/The Outer Lands
-[12:20:52] [Server thread/INFO]: Saving chunks for level 'World'/Pluto
-[12:20:52] [Server thread/INFO]: Saving chunks for level 'World'/Triton
-[12:20:52] [Server thread/INFO]: Saving chunks for level 'World'/Proteus
-[12:20:52] [Server thread/INFO]: Saving chunks for level 'World'/Oberon
-[12:20:52] [Server thread/INFO]: Saving chunks for level 'World'/Callisto
-[12:20:52] [Server thread/INFO]: Saving chunks for level 'World'/Titan
-[12:20:52] [Server thread/INFO]: Saving chunks for level 'World'/Ganymede
-[12:20:52] [Server thread/INFO]: Saving chunks for level 'World'/Ceres
-[12:20:52] [Server thread/INFO]: Saving chunks for level 'World'/Enceladus
-[12:20:52] [Server thread/INFO]: Saving chunks for level 'World'/Deimos
-[12:20:52] [Server thread/INFO]: Saving chunks for level 'World'/Venus
-[12:20:52] [Server thread/INFO]: Saving chunks for level 'World'/Phobos
-[12:20:52] [Server thread/INFO]: Saving chunks for level 'World'/Mercury
-[12:20:52] [Server thread/INFO]: Saving chunks for level 'World'/dimensionDarkWorld
-[12:20:52] [Server thread/INFO]: Saving chunks for level 'World'/Io
-[12:20:52] [Server thread/INFO]: Saving chunks for level 'World'/Europa
-[12:20:52] [Server thread/INFO]: Saving chunks for level 'World'/Kuiper Belt
-[12:20:52] [Server thread/INFO]: Saving chunks for level 'World'/Barnarda C
-[12:20:52] [Server thread/INFO]: Saving chunks for level 'World'/α Centauri Bb
-[12:20:52] [Server thread/INFO]: Saving chunks for level 'World'/Asteroids
-[12:20:52] [Server thread/INFO]: Saving chunks for level 'World'/Mars
-[12:20:52] [Server thread/INFO]: Saving chunks for level 'World'/Moon
-[12:20:52] [Server thread/INFO]: Saving chunks for level 'World'/Makemake
-[12:20:52] [Server thread/INFO]: Saving chunks for level 'World'/The Last Millenium
-[12:20:52] [Server thread/INFO]: Saving chunks for level 'World'/Twilight Forest
-[12:20:52] [Server thread/INFO]: Saving chunks for level 'World'/Underdark
-[12:20:52] [Server thread/INFO]: Saving chunks for level 'World'/SpectreWorld
+[12:25:06] [Server thread/INFO]: Starting minecraft server version 1.7.10
+[12:26:05] [Server thread/INFO]: Loading properties
+[12:26:05] [Server thread/INFO]: Default game type: SURVIVAL
+[12:26:05] [Server thread/INFO]: Generating keypair
+[12:26:05] [Server thread/INFO]: Starting Minecraft server on *:25565
+[12:27:55] [Server thread/INFO]: Preparing level "World"
+[12:27:57] [Server thread/INFO]: Preparing start region for level 0
+[12:27:58] [Server thread/INFO]: Preparing spawn area: 80%
+[12:27:58] [Server thread/INFO]: Done (11.698s)! For help, type "help" or "?"
+[12:28:08] [User Authenticator #1/INFO]: UUID of player _0x40_ is 33f9fa35-156a-4fc6-81c8-2ef8ece1065f
+[12:28:10] [Server thread/INFO]: _0x40_[/158.174.229.88:37288] logged in with entity id 645 at (370.69825450526815, 63.0, -679.1242292407155)
+[12:28:10] [Server thread/INFO]: _0x40_ joined the game
+[12:28:11] [Server thread/WARN]: Fetching addPacket for removed entity
+[12:30:17] [User Authenticator #2/INFO]: UUID of player JustDiving is 133bf8c1-805b-491d-9141-f252e4650b13
+[12:30:18] [Server thread/INFO]: JustDiving[/185.215.55.200:29192] logged in with entity id 3940 at (338.9743637523012, 64.0, -608.9432975680863)
+[12:30:18] [Server thread/INFO]: JustDiving joined the game
+[12:39:57] [Server thread/INFO]: There are 2/20 players online:
+[12:39:57] [Server thread/INFO]: _0x40_, JustDiving
+[12:48:42] [Server thread/INFO]: _0x40_ has just earned the achievement [Cow Tipper]
+[12:48:54] [Server thread/INFO]: _0x40_ lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[12:48:54] [Server thread/INFO]: _0x40_ left the game
+[12:50:05] [User Authenticator #3/INFO]: UUID of player _0x40_ is 33f9fa35-156a-4fc6-81c8-2ef8ece1065f
+[12:50:06] [Server thread/INFO]: _0x40_[/158.174.229.88:43242] logged in with entity id 45162 at (36.87681910956381, 93.0, -1190.6682542798294)
+[12:50:06] [Server thread/INFO]: _0x40_ joined the game
+[12:50:19] [Server thread/INFO]: <JustDiving> all good?
+[12:50:24] [Server thread/INFO]: <_0x40_> yeah
+[12:53:01] [Server thread/INFO]: <JustDiving> Do you have cotton?
+[12:53:11] [Server thread/INFO]: <JustDiving> Doing tinkers
+[12:53:13] [Server thread/INFO]: <_0x40_> yeah I planted some near the river
+[12:54:57] [Server thread/INFO]: There are 2/20 players online:
+[12:54:57] [Server thread/INFO]: JustDiving, _0x40_
+[12:57:15] [Server thread/INFO]: /yabm <get|set|startbackup> [key] [value]
+[12:57:15] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[12:57:46] [Server thread/INFO]: Server manually started a backup...
+[12:57:46] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[12:57:46] [Thread-24/INFO]: Backup starting - prepare for possible lag...
+[12:57:50] [Thread-24/INFO]: Worlds saved.
+[12:58:07] [Thread-24/INFO]: Backup finished.
+[13:07:16] [Server thread/INFO]: [Server] I am so paranoid now
+[13:07:16] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[13:07:27] [Server thread/INFO]: <JustDiving> Why?)
+[13:07:33] [Server thread/INFO]: [Server] I keep watching the logs
+[13:07:33] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[13:08:16] [Server thread/INFO]: <JustDiving> Relax
+[13:08:20] [Server thread/INFO]: [Server] afraid that it would close without saving
+[13:08:20] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[13:09:57] [Server thread/INFO]: There are 2/20 players online:
+[13:09:57] [Server thread/INFO]: JustDiving, _0x40_
+[13:10:24] [Server thread/INFO]: _0x40_ lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[13:10:24] [Server thread/INFO]: _0x40_ left the game
+[13:14:29] [User Authenticator #4/INFO]: UUID of player _0x40_ is 33f9fa35-156a-4fc6-81c8-2ef8ece1065f
+[13:14:30] [Server thread/INFO]: _0x40_[/158.174.229.88:55442] logged in with entity id 98194 at (686.5275869842342, 89.0, -2203.5376875680004)
+[13:14:30] [Server thread/INFO]: _0x40_ joined the game
+[13:21:59] [Server thread/INFO]: Server manually started a backup...
+[13:21:59] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[13:21:59] [Thread-31/INFO]: Backup starting - prepare for possible lag...
+[13:22:02] [Thread-31/INFO]: Worlds saved.
+[13:22:21] [Thread-31/INFO]: Backup finished.
+[13:24:57] [Server thread/INFO]: There are 2/20 players online:
+[13:24:57] [Server thread/INFO]: JustDiving, _0x40_
+[13:38:20] [Server thread/INFO]: Server manually started a backup...
+[13:38:20] [Thread-34/INFO]: Backup starting - prepare for possible lag...
+[13:38:23] [Thread-34/INFO]: Worlds saved.
+[13:38:43] [Thread-34/INFO]: Backup finished.
+[13:39:57] [Server thread/INFO]: There are 2/20 players online:
+[13:39:57] [Server thread/INFO]: JustDiving, _0x40_
+[13:41:51] [Server thread/INFO]: <JustDiving> Base is starting to look less like shit
+[13:41:57] [Server thread/INFO]: <JustDiving> Also coke oven is here
+[13:42:07] [Server thread/INFO]: <_0x40_> nice!
+[13:46:05] [Server thread/INFO]: Server manually started a backup...
+[13:46:05] [Thread-36/INFO]: Backup starting - prepare for possible lag...
+[13:46:07] [Thread-36/INFO]: Worlds saved.
+[13:46:27] [Thread-36/INFO]: Backup finished.
+[13:51:30] [Server thread/INFO]: Server manually started a backup...
+[13:51:30] [Thread-38/INFO]: Backup starting - prepare for possible lag...
+[13:51:31] [Thread-38/INFO]: Worlds saved.
+[13:51:51] [Thread-38/INFO]: Backup finished.
+[13:53:19] [Server thread/INFO]: _0x40_ lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[13:53:19] [Server thread/INFO]: _0x40_ left the game
+[13:54:53] [Server thread/INFO]: [Server] server restart sorry
+[13:54:53] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[13:54:56] [Server thread/INFO]: <JustDiving> kk
+[13:54:58] [Server thread/INFO]: There are 1/20 players online:
+[13:54:58] [Server thread/INFO]: JustDiving
+[13:55:14] [Server thread/INFO]: Stopping the server
+[13:55:14] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[13:55:14] [Server thread/INFO]: Stopping server
+[13:55:14] [Server thread/INFO]: Saving players
+[13:55:14] [Server thread/INFO]: Saving worlds
+[13:55:14] [Server thread/INFO]: Saving chunks for level 'World'/Overworld
+[13:55:14] [Server thread/INFO]: Saving chunks for level 'World'/Nether
+[13:55:14] [Server thread/INFO]: Saving chunks for level 'World'/Miranda
+[13:55:14] [Server thread/INFO]: Saving chunks for level 'World'/T Ceti E
+[13:55:14] [Server thread/INFO]: Saving chunks for level 'World'/Vega B
+[13:55:14] [Server thread/INFO]: Saving chunks for level 'World'/Haumea
+[13:55:14] [Server thread/INFO]: Saving chunks for level 'World'/Barnarda F
+[13:55:14] [Server thread/INFO]: Saving chunks for level 'World'/Barnarda E
+[13:55:14] [Server thread/INFO]: Saving chunks for level 'World'/Outer Lands
+[13:55:14] [Server thread/INFO]: Saving chunks for level 'World'/Saturn
+[13:55:14] [Server thread/INFO]: Saving chunks for level 'World'/Neptune
+[13:55:14] [Server thread/INFO]: Saving chunks for level 'World'/Jupiter
+[13:55:14] [Server thread/INFO]: Saving chunks for level 'World'/Mirror
+[13:55:14] [Server thread/INFO]: Saving chunks for level 'World'/Pocket Plane
+[13:55:14] [Server thread/INFO]: Saving chunks for level 'World'/Ross128b
+[13:55:14] [Server thread/INFO]: Saving chunks for level 'World'/Ross128ba
+[13:55:14] [Server thread/INFO]: Saving chunks for level 'World'/Bedrock
+[13:55:14] [Server thread/INFO]: Saving chunks for level 'World'/Torment
+[13:55:14] [Server thread/INFO]: Saving chunks for level 'World'/Spirit World
+[13:55:14] [Server thread/INFO]: Saving chunks for level 'World'/Uranus
+[13:55:14] [Server thread/INFO]: Saving chunks for level 'World'/The Outer Lands
+[13:55:14] [Server thread/INFO]: Saving chunks for level 'World'/Pluto
+[13:55:14] [Server thread/INFO]: Saving chunks for level 'World'/Triton
+[13:55:14] [Server thread/INFO]: Saving chunks for level 'World'/Proteus
+[13:55:14] [Server thread/INFO]: Saving chunks for level 'World'/Oberon
+[13:55:14] [Server thread/INFO]: Saving chunks for level 'World'/Callisto
+[13:55:14] [Server thread/INFO]: Saving chunks for level 'World'/Titan
+[13:55:14] [Server thread/INFO]: Saving chunks for level 'World'/Ganymede
+[13:55:14] [Server thread/INFO]: Saving chunks for level 'World'/Ceres
+[13:55:14] [Server thread/INFO]: Saving chunks for level 'World'/Enceladus
+[13:55:14] [Server thread/INFO]: Saving chunks for level 'World'/Deimos
+[13:55:14] [Server thread/INFO]: Saving chunks for level 'World'/Venus
+[13:55:14] [Server thread/INFO]: Saving chunks for level 'World'/Phobos
+[13:55:14] [Server thread/INFO]: Saving chunks for level 'World'/Mercury
+[13:55:14] [Server thread/INFO]: Saving chunks for level 'World'/dimensionDarkWorld
+[13:55:14] [Server thread/INFO]: Saving chunks for level 'World'/Io
+[13:55:14] [Server thread/INFO]: Saving chunks for level 'World'/Europa
+[13:55:14] [Server thread/INFO]: Saving chunks for level 'World'/Kuiper Belt
+[13:55:14] [Server thread/INFO]: Saving chunks for level 'World'/Barnarda C
+[13:55:14] [Server thread/INFO]: Saving chunks for level 'World'/α Centauri Bb
+[13:55:14] [Server thread/INFO]: Saving chunks for level 'World'/Asteroids
+[13:55:14] [Server thread/INFO]: Saving chunks for level 'World'/Mars
+[13:55:14] [Server thread/INFO]: Saving chunks for level 'World'/Moon
+[13:55:14] [Server thread/INFO]: Saving chunks for level 'World'/Makemake
+[13:55:14] [Server thread/INFO]: Saving chunks for level 'World'/The Last Millenium
+[13:55:14] [Server thread/INFO]: Saving chunks for level 'World'/Twilight Forest
+[13:55:14] [Server thread/INFO]: Saving chunks for level 'World'/Underdark
+[13:55:14] [Server thread/INFO]: Saving chunks for level 'World'/SpectreWorld
