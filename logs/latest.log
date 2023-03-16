@@ -1,299 +1,401 @@
-[00:01:34] [Server thread/INFO]: Starting minecraft server version 1.7.10
-[00:02:31] [Server thread/INFO]: Loading properties
-[00:02:31] [Server thread/INFO]: Default game type: SURVIVAL
-[00:02:31] [Server thread/INFO]: Generating keypair
-[00:02:31] [Server thread/INFO]: Starting Minecraft server on *:25565
-[00:04:14] [Server thread/INFO]: Preparing level "World"
-[00:04:16] [Server thread/INFO]: Preparing start region for level 0
-[00:04:17] [Server thread/INFO]: Preparing spawn area: 82%
-[00:04:17] [Server thread/INFO]: Done (10.938s)! For help, type "help" or "?"
-[00:05:09] [User Authenticator #1/INFO]: UUID of player Princess_Kat12 is 887ba3ea-4339-4151-b739-710f41cf7deb
-[00:05:11] [Server thread/INFO]: Princess_Kat12[/109.151.138.180:62075] logged in with entity id 523 at (-28.5, 94.0, -76.5)
-[00:05:11] [Server thread/INFO]: Princess_Kat12 joined the game
-[00:05:50] [Server thread/INFO]: Princess_Kat12 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[00:05:50] [Server thread/INFO]: Princess_Kat12 left the game
-[00:07:28] [User Authenticator #2/INFO]: UUID of player Princess_Kat12 is 887ba3ea-4339-4151-b739-710f41cf7deb
-[00:07:29] [Server thread/INFO]: Princess_Kat12[/109.151.138.180:62184] logged in with entity id 1993 at (-16.351341672838206, 92.0, -96.50891928549744)
-[00:07:29] [Server thread/INFO]: Princess_Kat12 joined the game
-[00:11:19] [Server thread/INFO]: Princess_Kat12 has just earned the achievement [Taking Inventory]
-[00:11:45] [User Authenticator #3/INFO]: UUID of player JustDiving is 133bf8c1-805b-491d-9141-f252e4650b13
-[00:11:46] [Server thread/INFO]: JustDiving[/185.215.55.200:29294] logged in with entity id 6616 at (358.80855917214393, 71.0, -644.9864533793616)
-[00:11:46] [Server thread/INFO]: JustDiving joined the game
-[00:11:52] [Server thread/INFO]: <Princess_Kat12> hiy
-[00:12:05] [Server thread/INFO]: <JustDiving> Hi
-[00:12:13] [Server thread/INFO]: <JustDiving> Wanna do a voicecall?
-[00:12:44] [Server thread/INFO]: <JustDiving> No?)
-[00:12:46] [Server thread/INFO]: <Princess_Kat12> can do dont mind
-[00:12:54] [Server thread/INFO]: <JustDiving> k
-[00:16:24] [Server thread/INFO]: Server manually started a backup...
-[00:16:24] [Thread-22/INFO]: Backup starting - prepare for possible lag...
-[00:16:24] [Server thread/INFO]: There are 2/20 players online:
-[00:16:24] [Server thread/INFO]: Princess_Kat12, JustDiving
-[00:16:26] [Thread-22/INFO]: Worlds saved.
-[00:16:46] [Thread-22/INFO]: Backup finished.
-[00:31:25] [Server thread/INFO]: There are 2/20 players online:
-[00:31:25] [Server thread/INFO]: Princess_Kat12, JustDiving
-[00:32:17] [Server thread/INFO]: Server manually started a backup...
-[00:32:17] [Thread-24/INFO]: Backup starting - prepare for possible lag...
-[00:32:19] [Thread-24/INFO]: Worlds saved.
-[00:32:39] [Thread-24/INFO]: Backup finished.
-[00:32:45] [Server thread/INFO]: Princess_Kat12 fell out of the world
-[00:34:52] [Server thread/INFO]: Princess_Kat12 fell out of the world
-[00:36:46] [Server thread/INFO]: Princess_Kat12 fell out of the world
-[00:37:28] [Server thread/INFO]: Princess_Kat12 has just earned the achievement [Getting Wood]
-[00:38:13] [Server thread/INFO]: Princess_Kat12 has just earned the achievement [Benchmarking]
-[00:38:13] [Server thread/INFO]: Princess_Kat12 has just earned the achievement [Time to Mine!]
-[00:38:13] [Server thread/INFO]: Princess_Kat12 has just earned the achievement [Getting an Upgrade]
-[00:38:13] [Server thread/INFO]: Princess_Kat12 has just earned the achievement [First Tools]
-[00:46:25] [Server thread/INFO]: There are 2/20 players online:
-[00:46:25] [Server thread/INFO]: JustDiving, Princess_Kat12
-[00:48:10] [Server thread/INFO]: Server manually started a backup...
-[00:48:10] [Thread-29/INFO]: Backup starting - prepare for possible lag...
-[00:48:11] [Thread-29/INFO]: Worlds saved.
-[00:48:30] [Thread-29/INFO]: Backup finished.
-[01:01:25] [Server thread/INFO]: There are 2/20 players online:
-[01:01:25] [Server thread/INFO]: JustDiving, Princess_Kat12
-[01:04:02] [Server thread/INFO]: Server manually started a backup...
-[01:04:02] [Thread-34/INFO]: Backup starting - prepare for possible lag...
-[01:04:04] [Thread-34/INFO]: Worlds saved.
-[01:04:24] [Thread-34/INFO]: Backup finished.
-[01:16:25] [Server thread/INFO]: There are 2/20 players online:
-[01:16:25] [Server thread/INFO]: JustDiving, Princess_Kat12
-[01:19:55] [Server thread/INFO]: Server manually started a backup...
-[01:19:55] [Thread-36/INFO]: Backup starting - prepare for possible lag...
-[01:19:56] [Thread-36/INFO]: Worlds saved.
-[01:20:16] [Thread-36/INFO]: Backup finished.
-[01:31:25] [Server thread/INFO]: There are 2/20 players online:
-[01:31:25] [Server thread/INFO]: JustDiving, Princess_Kat12
-[01:34:55] [Server thread/INFO]: JustDiving has just earned the achievement [Learning to Tinker]
-[01:35:47] [Server thread/INFO]: Server manually started a backup...
-[01:35:47] [Thread-38/INFO]: Backup starting - prepare for possible lag...
-[01:35:48] [Thread-38/INFO]: Worlds saved.
-[01:36:09] [Thread-38/INFO]: Backup finished.
-[01:46:25] [Server thread/INFO]: There are 2/20 players online:
-[01:46:25] [Server thread/INFO]: JustDiving, Princess_Kat12
-[01:51:40] [Server thread/INFO]: Server manually started a backup...
-[01:51:40] [Thread-40/INFO]: Backup starting - prepare for possible lag...
-[01:51:41] [Thread-40/INFO]: Worlds saved.
-[01:52:01] [Thread-40/INFO]: Backup finished.
-[02:01:25] [Server thread/INFO]: There are 2/20 players online:
-[02:01:25] [Server thread/INFO]: JustDiving, Princess_Kat12
-[02:07:32] [Server thread/INFO]: Server manually started a backup...
-[02:07:32] [Thread-43/INFO]: Backup starting - prepare for possible lag...
-[02:07:34] [Thread-43/INFO]: Worlds saved.
-[02:07:54] [Thread-43/INFO]: Backup finished.
-[02:16:25] [Server thread/INFO]: There are 2/20 players online:
-[02:16:25] [Server thread/INFO]: JustDiving, Princess_Kat12
-[02:17:29] [Server thread/WARN]: Fetching addPacket for removed entity
-[02:23:25] [Server thread/INFO]: Server manually started a backup...
-[02:23:25] [Thread-45/INFO]: Backup starting - prepare for possible lag...
-[02:23:27] [Thread-45/INFO]: Worlds saved.
-[02:23:47] [Thread-45/INFO]: Backup finished.
-[02:31:25] [Server thread/INFO]: There are 2/20 players online:
-[02:31:25] [Server thread/INFO]: JustDiving, Princess_Kat12
-[02:34:57] [Server thread/INFO]: §cPrincess_Kat12§f was boiled alive
-[02:39:18] [Server thread/INFO]: Server manually started a backup...
-[02:39:18] [Thread-48/INFO]: Backup starting - prepare for possible lag...
-[02:39:19] [Thread-48/INFO]: Worlds saved.
-[02:39:39] [Thread-48/INFO]: Backup finished.
-[02:43:01] [Server thread/INFO]: Princess_Kat12 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[02:43:01] [Server thread/INFO]: Princess_Kat12 left the game
-[02:43:11] [User Authenticator #4/INFO]: UUID of player Princess_Kat12 is 887ba3ea-4339-4151-b739-710f41cf7deb
-[02:43:11] [Server thread/INFO]: Princess_Kat12[/109.151.138.180:57485] logged in with entity id 220075 at (396.6256538581262, 63.0, -652.5594385921738)
-[02:43:11] [Server thread/INFO]: Princess_Kat12 joined the game
-[02:46:25] [Server thread/INFO]: There are 2/20 players online:
-[02:46:25] [Server thread/INFO]: JustDiving, Princess_Kat12
-[02:55:10] [Server thread/INFO]: Server manually started a backup...
-[02:55:10] [Thread-54/INFO]: Backup starting - prepare for possible lag...
-[02:55:12] [Thread-54/INFO]: Worlds saved.
-[02:55:32] [Thread-54/INFO]: Backup finished.
-[03:01:25] [Server thread/INFO]: There are 2/20 players online:
-[03:01:25] [Server thread/INFO]: JustDiving, Princess_Kat12
-[03:11:03] [Server thread/INFO]: Server manually started a backup...
-[03:11:03] [Thread-56/INFO]: Backup starting - prepare for possible lag...
-[03:11:04] [Thread-56/INFO]: Worlds saved.
-[03:11:25] [Thread-56/INFO]: Backup finished.
-[03:16:25] [Server thread/INFO]: There are 2/20 players online:
-[03:16:25] [Server thread/INFO]: JustDiving, Princess_Kat12
-[03:26:55] [Server thread/INFO]: Server manually started a backup...
-[03:26:55] [Thread-58/INFO]: Backup starting - prepare for possible lag...
-[03:26:57] [Thread-58/INFO]: Worlds saved.
-[03:27:17] [Thread-58/INFO]: Backup finished.
-[03:31:25] [Server thread/INFO]: There are 2/20 players online:
-[03:31:25] [Server thread/INFO]: JustDiving, Princess_Kat12
-[03:35:48] [Server thread/INFO]: Princess_Kat12 has just earned the achievement [More Tools]
-[03:42:48] [Server thread/INFO]: Server manually started a backup...
-[03:42:48] [Thread-60/INFO]: Backup starting - prepare for possible lag...
-[03:42:49] [Thread-60/INFO]: Worlds saved.
-[03:43:10] [Thread-60/INFO]: Backup finished.
-[03:46:25] [Server thread/INFO]: There are 2/20 players online:
-[03:46:25] [Server thread/INFO]: JustDiving, Princess_Kat12
-[03:47:30] [Server thread/INFO]: Princess_Kat12 has just earned the achievement [Hot Topic]
-[03:48:08] [Server thread/INFO]: Princess_Kat12 has just earned the achievement [Acquire Hardware]
-[03:48:08] [Server thread/INFO]: Princess_Kat12 has just earned the achievement [Not really better than iron]
-[03:58:41] [Server thread/INFO]: Server manually started a backup...
-[03:58:41] [Thread-62/INFO]: Backup starting - prepare for possible lag...
-[03:58:42] [Thread-62/INFO]: Worlds saved.
-[03:59:03] [Thread-62/INFO]: Backup finished.
-[04:01:26] [Server thread/INFO]: There are 2/20 players online:
-[04:01:26] [Server thread/INFO]: JustDiving, Princess_Kat12
-[04:14:34] [Server thread/INFO]: Server manually started a backup...
-[04:14:34] [Thread-64/INFO]: Backup starting - prepare for possible lag...
-[04:14:35] [Thread-64/INFO]: Worlds saved.
-[04:14:56] [Thread-64/INFO]: Backup finished.
-[04:16:26] [Server thread/INFO]: There are 2/20 players online:
-[04:16:26] [Server thread/INFO]: JustDiving, Princess_Kat12
-[04:30:27] [Server thread/INFO]: Server manually started a backup...
-[04:30:27] [Thread-66/INFO]: Backup starting - prepare for possible lag...
-[04:30:28] [Thread-66/INFO]: Worlds saved.
-[04:30:49] [Thread-66/INFO]: Backup finished.
-[04:31:26] [Server thread/INFO]: There are 2/20 players online:
-[04:31:26] [Server thread/INFO]: JustDiving, Princess_Kat12
-[04:37:31] [Server thread/INFO]: JustDiving lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[04:37:31] [Server thread/INFO]: JustDiving left the game
-[04:46:20] [Server thread/INFO]: Server manually started a backup...
-[04:46:20] [Thread-69/INFO]: Backup starting - prepare for possible lag...
-[04:46:21] [Thread-69/INFO]: Worlds saved.
-[04:46:26] [Server thread/INFO]: There are 1/20 players online:
-[04:46:26] [Server thread/INFO]: Princess_Kat12
-[04:46:42] [Thread-69/INFO]: Backup finished.
-[04:47:56] [Server thread/INFO]: Princess_Kat12 was slain by Fallen Knight
-[04:48:38] [Server thread/INFO]: Princess_Kat12 has just earned the achievement [Gregtech++]
-[04:48:38] [Server thread/INFO]: Princess_Kat12 has just earned the achievement [Crushed]
-[04:48:39] [Server thread/INFO]: Princess_Kat12 has just earned the achievement [Clean]
-[05:01:26] [Server thread/INFO]: There are 1/20 players online:
-[05:01:26] [Server thread/INFO]: Princess_Kat12
-[05:02:13] [Server thread/INFO]: Server manually started a backup...
-[05:02:13] [Thread-72/INFO]: Backup starting - prepare for possible lag...
-[05:02:13] [Thread-72/INFO]: Worlds saved.
-[05:02:34] [Thread-72/INFO]: Backup finished.
-[05:16:26] [Server thread/INFO]: There are 1/20 players online:
-[05:16:26] [Server thread/INFO]: Princess_Kat12
-[05:18:06] [Server thread/INFO]: Server manually started a backup...
-[05:18:06] [Thread-74/INFO]: Backup starting - prepare for possible lag...
-[05:18:07] [Thread-74/INFO]: Worlds saved.
-[05:18:27] [Thread-74/INFO]: Backup finished.
-[05:31:26] [Server thread/INFO]: There are 1/20 players online:
-[05:31:26] [Server thread/INFO]: Princess_Kat12
-[05:33:59] [Server thread/INFO]: Server manually started a backup...
-[05:33:59] [Thread-76/INFO]: Backup starting - prepare for possible lag...
-[05:34:00] [Thread-76/INFO]: Worlds saved.
-[05:34:20] [Thread-76/INFO]: Backup finished.
-[05:46:26] [Server thread/INFO]: There are 1/20 players online:
-[05:46:26] [Server thread/INFO]: Princess_Kat12
-[05:49:52] [Server thread/INFO]: Server manually started a backup...
-[05:49:52] [Thread-78/INFO]: Backup starting - prepare for possible lag...
-[05:49:53] [Thread-78/INFO]: Worlds saved.
-[05:50:13] [Thread-78/INFO]: Backup finished.
-[06:01:26] [Server thread/INFO]: There are 1/20 players online:
-[06:01:26] [Server thread/INFO]: Princess_Kat12
-[06:05:45] [Server thread/INFO]: Server manually started a backup...
-[06:05:45] [Thread-80/INFO]: Backup starting - prepare for possible lag...
-[06:05:46] [Thread-80/INFO]: Worlds saved.
-[06:06:06] [Thread-80/INFO]: Backup finished.
-[06:16:26] [Server thread/INFO]: There are 1/20 players online:
-[06:16:26] [Server thread/INFO]: Princess_Kat12
-[06:16:53] [User Authenticator #5/INFO]: UUID of player _0x40_ is 33f9fa35-156a-4fc6-81c8-2ef8ece1065f
-[06:16:54] [Server thread/INFO]: _0x40_[/158.174.229.88:53876] logged in with entity id 402276 at (360.6505948489549, 71.0, -644.778601544549)
-[06:16:54] [Server thread/INFO]: _0x40_ joined the game
-[06:17:00] [Server thread/INFO]: <Princess_Kat12> hi oxo
-[06:17:11] [Server thread/INFO]: <_0x40_> hello!
-[06:18:03] [Server thread/INFO]: <Princess_Kat12> hows u
-[06:18:44] [Server thread/INFO]: <_0x40_> I'm alright, just woke up
-[06:18:47] [Server thread/INFO]: <_0x40_> how about you?
-[06:19:44] [Server thread/INFO]: <Princess_Kat12> doing good just dismantling a house for bricks whilst thinking about making a better boiler
-[06:20:13] [Server thread/INFO]: <_0x40_> yeah the current boiler is not keeping up
-[06:20:25] [Server thread/INFO]: <Princess_Kat12> time for railcraft bs i think
-[06:20:35] [Server thread/INFO]: <Princess_Kat12> which is why the building is bigger
-[06:20:52] [Server thread/INFO]: <Princess_Kat12> dont put more in the creasote machine im trying to empty it so i can move it
-[06:21:28] [Server thread/INFO]: <Princess_Kat12> i have nearly collected enough stuff to make the steal furnace creation machine whatever its called
-[06:21:31] [Server thread/INFO]: <Princess_Kat12> the multiblock
-[06:21:48] [Server thread/INFO]: <_0x40_> ah nice
-[06:22:00] [Server thread/INFO]: <Princess_Kat12> its been exciting as you would imagine
-[06:22:05] [Server thread/INFO]: <Princess_Kat12> could you sleep for me
-[06:22:10] [Server thread/INFO]: Server manually started a backup...
-[06:22:10] [Thread-86/INFO]: Backup starting - prepare for possible lag...
-[06:22:12] [Server thread/INFO]: <_0x40_> zzzz
-[06:22:12] [Thread-86/INFO]: Worlds saved.
-[06:22:26] [Server thread/INFO]: <Princess_Kat12> ty
-[06:22:33] [Thread-86/INFO]: Backup finished.
-[06:22:40] [Server thread/INFO]: Server manually started a backup...
-[06:22:40] [Thread-88/INFO]: Backup starting - prepare for possible lag...
-[06:22:42] [Thread-88/INFO]: Worlds saved.
-[06:23:04] [Thread-88/INFO]: Backup finished.
-[06:28:28] [Server thread/INFO]: <_0x40_> thanks :)
-[06:28:36] [Server thread/INFO]: <Princess_Kat12> there is more machines ive just got them
-[06:28:48] [Server thread/INFO]: <Princess_Kat12> tadah
-[06:28:49] [Server thread/INFO]: <_0x40_> nice!
-[06:29:04] [Server thread/INFO]: <Princess_Kat12> but the steam is so pathetic none of them stay plugged in
-[06:30:13] [User Authenticator #6/INFO]: UUID of player flfloflflo is a8f6a6e1-6e37-44bb-b388-6489f06d63bc
-[06:30:14] [Server thread/INFO]: flfloflflo[/85.201.76.90:60227] logged in with entity id 422238 at (355.16190110742303, 71.0, -642.8643252871078)
-[06:30:14] [Server thread/INFO]: flfloflflo joined the game
-[06:30:20] [Server thread/INFO]: <Princess_Kat12> o hi flo
-[06:30:22] [Server thread/INFO]: <_0x40_> hello!
-[06:30:38] [Server thread/INFO]: <flfloflflo> hello
-[06:31:23] [Server thread/INFO]: <flfloflflo> it looks like work in progress here
-[06:31:26] [Server thread/INFO]: There are 3/20 players online:
-[06:31:26] [Server thread/INFO]: Princess_Kat12, _0x40_, flfloflflo
-[06:31:39] [Server thread/INFO]: <Princess_Kat12> waddya mean its open plan factorying
-[06:31:59] [Server thread/INFO]: <flfloflflo> and we pushed that wall
-[06:32:10] [Server thread/INFO]: <Princess_Kat12> well i pushed it further
-[06:32:15] [Server thread/INFO]: <Princess_Kat12> as its in the way
-[06:32:24] [Server thread/INFO]: <flfloflflo> nice cus we need space
-[06:32:34] [Server thread/INFO]: <flfloflflo> do you mind if I restart the server
-[06:32:39] [Server thread/INFO]: <flfloflflo> just for safety ?
-[06:32:40] [Server thread/INFO]: <Princess_Kat12> can doodly do
-[06:32:48] [Server thread/INFO]: Princess_Kat12 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[06:32:48] [Server thread/INFO]: Princess_Kat12 left the game
-[06:32:54] [Server thread/INFO]: [flfloflflo: Stopping the server]
-[06:32:54] [Server thread/INFO]: Stopping server
-[06:32:54] [Server thread/INFO]: Saving players
-[06:32:54] [Server thread/INFO]: Saving worlds
-[06:32:54] [Server thread/INFO]: Saving chunks for level 'World'/Overworld
-[06:32:54] [Server thread/INFO]: Saving chunks for level 'World'/Nether
-[06:32:54] [Server thread/INFO]: Saving chunks for level 'World'/Miranda
-[06:32:54] [Server thread/INFO]: Saving chunks for level 'World'/T Ceti E
-[06:32:54] [Server thread/INFO]: Saving chunks for level 'World'/Vega B
-[06:32:54] [Server thread/INFO]: Saving chunks for level 'World'/Haumea
-[06:32:54] [Server thread/INFO]: Saving chunks for level 'World'/Barnarda F
-[06:32:54] [Server thread/INFO]: Saving chunks for level 'World'/Barnarda E
-[06:32:54] [Server thread/INFO]: Saving chunks for level 'World'/Outer Lands
-[06:32:54] [Server thread/INFO]: Saving chunks for level 'World'/Saturn
-[06:32:54] [Server thread/INFO]: Saving chunks for level 'World'/Neptune
-[06:32:54] [Server thread/INFO]: Saving chunks for level 'World'/Jupiter
-[06:32:54] [Server thread/INFO]: Saving chunks for level 'World'/Mirror
-[06:32:54] [Server thread/INFO]: Saving chunks for level 'World'/Pocket Plane
-[06:32:54] [Server thread/INFO]: Saving chunks for level 'World'/Ross128b
-[06:32:54] [Server thread/INFO]: Saving chunks for level 'World'/Ross128ba
-[06:32:54] [Server thread/INFO]: Saving chunks for level 'World'/Bedrock
-[06:32:54] [Server thread/INFO]: Saving chunks for level 'World'/Torment
-[06:32:54] [Server thread/INFO]: Saving chunks for level 'World'/Spirit World
-[06:32:54] [Server thread/INFO]: Saving chunks for level 'World'/Uranus
-[06:32:54] [Server thread/INFO]: Saving chunks for level 'World'/The Outer Lands
-[06:32:54] [Server thread/INFO]: Saving chunks for level 'World'/Pluto
-[06:32:54] [Server thread/INFO]: Saving chunks for level 'World'/Triton
-[06:32:54] [Server thread/INFO]: Saving chunks for level 'World'/Proteus
-[06:32:54] [Server thread/INFO]: Saving chunks for level 'World'/Oberon
-[06:32:54] [Server thread/INFO]: Saving chunks for level 'World'/Callisto
-[06:32:54] [Server thread/INFO]: Saving chunks for level 'World'/Titan
-[06:32:54] [Server thread/INFO]: Saving chunks for level 'World'/Ganymede
-[06:32:54] [Server thread/INFO]: Saving chunks for level 'World'/Ceres
-[06:32:54] [Server thread/INFO]: Saving chunks for level 'World'/Enceladus
-[06:32:54] [Server thread/INFO]: Saving chunks for level 'World'/Deimos
-[06:32:54] [Server thread/INFO]: Saving chunks for level 'World'/Venus
-[06:32:54] [Server thread/INFO]: Saving chunks for level 'World'/Phobos
-[06:32:54] [Server thread/INFO]: Saving chunks for level 'World'/Mercury
-[06:32:54] [Server thread/INFO]: Saving chunks for level 'World'/dimensionDarkWorld
-[06:32:54] [Server thread/INFO]: Saving chunks for level 'World'/Io
-[06:32:54] [Server thread/INFO]: Saving chunks for level 'World'/Europa
-[06:32:54] [Server thread/INFO]: Saving chunks for level 'World'/Kuiper Belt
-[06:32:54] [Server thread/INFO]: Saving chunks for level 'World'/Barnarda C
-[06:32:54] [Server thread/INFO]: Saving chunks for level 'World'/α Centauri Bb
-[06:32:54] [Server thread/INFO]: Saving chunks for level 'World'/Asteroids
-[06:32:54] [Server thread/INFO]: Saving chunks for level 'World'/Mars
-[06:32:54] [Server thread/INFO]: Saving chunks for level 'World'/Moon
-[06:32:54] [Server thread/INFO]: Saving chunks for level 'World'/Makemake
-[06:32:54] [Server thread/INFO]: Saving chunks for level 'World'/The Last Millenium
-[06:32:54] [Server thread/INFO]: Saving chunks for level 'World'/Twilight Forest
-[06:32:54] [Server thread/INFO]: Saving chunks for level 'World'/Underdark
-[06:32:54] [Server thread/INFO]: Saving chunks for level 'World'/SpectreWorld
+[06:35:55] [Server thread/INFO]: Starting minecraft server version 1.7.10
+[06:36:51] [Server thread/INFO]: Loading properties
+[06:36:51] [Server thread/INFO]: Default game type: SURVIVAL
+[06:36:51] [Server thread/INFO]: Generating keypair
+[06:36:51] [Server thread/INFO]: Starting Minecraft server on *:25565
+[06:38:33] [Server thread/INFO]: Preparing level "World"
+[06:38:34] [Server thread/INFO]: Preparing start region for level 0
+[06:38:35] [Server thread/INFO]: Preparing spawn area: 52%
+[06:38:36] [Server thread/INFO]: Done (11.196s)! For help, type "help" or "?"
+[06:38:44] [User Authenticator #1/INFO]: UUID of player Princess_Kat12 is 887ba3ea-4339-4151-b739-710f41cf7deb
+[06:38:45] [Server thread/INFO]: Princess_Kat12[/109.151.138.180:54179] logged in with entity id 556 at (351.49833906768316, 63.0, -643.1830238564319)
+[06:38:45] [Server thread/INFO]: Princess_Kat12 joined the game
+[06:38:53] [User Authenticator #2/INFO]: UUID of player _0x40_ is 33f9fa35-156a-4fc6-81c8-2ef8ece1065f
+[06:38:54] [Server thread/INFO]: _0x40_[/158.174.229.88:34078] logged in with entity id 809 at (383.4054149070368, 63.0, -638.110598373323)
+[06:38:54] [Server thread/INFO]: _0x40_ joined the game
+[06:39:14] [Server thread/INFO]: <Princess_Kat12> alright lets get at it
+[06:39:34] [Server thread/INFO]: <Princess_Kat12> you up for doing some tank producing with me?
+[06:39:45] [Server thread/INFO]: <_0x40_> yeah sure
+[06:39:52] [Server thread/INFO]: <_0x40_> railcraft iron tank?
+[06:40:10] [Server thread/INFO]: <Princess_Kat12> low pressure boiler tanks
+[06:40:37] [Server thread/INFO]: <Princess_Kat12> 9 maybe
+[06:41:15] [Server thread/INFO]: <_0x40_> sure, doesn't look too dificult
+[06:41:32] [Server thread/INFO]: <_0x40_> do we have enough iron?
+[06:41:50] [Server thread/INFO]: <Princess_Kat12> yeah probably there is a lot ore about just needs cooking
+[06:42:06] [Server thread/INFO]: <Princess_Kat12> maseraiting maybe but that will just take years
+[06:43:46] [Server thread/INFO]: <_0x40_> yeah true
+[06:44:40] [Server thread/INFO]: <Princess_Kat12> its 40 seconds a block btw
+[06:44:49] [Server thread/INFO]: <_0x40_> yeah
+[06:45:00] [Server thread/INFO]: <Princess_Kat12> speed not available
+[06:46:41] [Server thread/INFO]: <Princess_Kat12> i love losing shit
+[06:46:55] [Server thread/INFO]: <_0x40_> yeah we need ae2
+[06:47:03] [Server thread/INFO]: <Princess_Kat12> think thats way off sadly
+[06:47:09] [Server thread/INFO]: <_0x40_> yup
+[06:48:29] [Server thread/INFO]: <Princess_Kat12> noice
+[06:48:40] [Server thread/INFO]: <_0x40_> just made one
+[06:49:04] [Server thread/INFO]: <Princess_Kat12> just put it on the middle for now
+[06:49:15] [Server thread/INFO]: <_0x40_> do we want the machines here?
+[06:49:21] [Server thread/INFO]: <Princess_Kat12> i do however not know how this works
+[06:49:27] [Server thread/INFO]: <Princess_Kat12> o it did form
+[06:49:34] [Server thread/INFO]: <Princess_Kat12> col
+[06:49:35] [Server thread/INFO]: <_0x40_> we gotta supply water from the tank
+[06:49:53] [Server thread/INFO]: <Princess_Kat12> yeah i was planning to make big tubes to bring it from the roof down here
+[06:50:23] [Server thread/INFO]: <_0x40_> we need tubes in both direction then, for water and steam
+[06:50:39] [Server thread/INFO]: <Princess_Kat12> yeah wood tubes for cold water bronze for steam i guess
+[06:50:44] [Server thread/INFO]: <_0x40_> yeah
+[06:50:45] [Server thread/INFO]: Server manually started a backup...
+[06:50:45] [Thread-18/INFO]: Backup starting - prepare for possible lag...
+[06:50:46] [Server thread/INFO]: There are 2/20 players online:
+[06:50:46] [Server thread/INFO]: Princess_Kat12, _0x40_
+[06:50:46] [Thread-18/INFO]: Worlds saved.
+[06:51:08] [Thread-18/INFO]: Backup finished.
+[06:51:19] [Server thread/INFO]: <_0x40_> I'll do the water pipes
+[06:51:23] [Server thread/INFO]: <Princess_Kat12> alrighty
+[06:52:23] [Server thread/INFO]: <Princess_Kat12> plan was currently to make it a 3*3 flat tank on top and build up maybe but i also dont know how the
+[06:52:29] [Server thread/INFO]: <Princess_Kat12> water or steam connects
+[06:53:25] [Server thread/INFO]: <Princess_Kat12> just realised i made a bunch iron plates i didnt need
+[06:53:26] [Server thread/INFO]: <Princess_Kat12> noice
+[06:53:59] [Server thread/INFO]: <Princess_Kat12> i think probably just creasote blocks down here machines the floor above once i make the floor
+[06:54:26] [Server thread/INFO]: <_0x40_> yeah sounds good
+[06:55:12] [Server thread/INFO]: <Princess_Kat12> floor maybe 5 high so the steel multiblock ccan be down here too
+[06:55:25] [Server thread/INFO]: <_0x40_> yea
+[06:55:54] [Server thread/INFO]: <Princess_Kat12> annd then maybe when we can replace it with the one that can take creasote so we can use that up too
+[06:58:17] [Server thread/INFO]: <Princess_Kat12> but as you have got further i go to your knowledge
+[06:58:35] [Server thread/INFO]: <_0x40_> no it sounds good
+[06:58:54] [Server thread/INFO]: <_0x40_> we maybe want 2 boilers one solid one liquid?
+[06:59:04] [Server thread/INFO]: <_0x40_> in lv we need lots of steam
+[06:59:12] [Server thread/INFO]: <Princess_Kat12> dont see why not but i we might need a better tank
+[06:59:18] [Server thread/INFO]: <Princess_Kat12> water tank i mean
+[06:59:31] [Server thread/INFO]: <_0x40_> yeah we'll need 2 or 3 probably
+[07:00:54] [Server thread/INFO]: <_0x40_> they are easy to make they just take up a lot of space
+[07:01:04] [Server thread/INFO]: <Princess_Kat12> well i guess roof watertanks
+[07:01:09] [Server thread/INFO]: <_0x40_> yeah
+[07:01:32] [Server thread/INFO]: <Princess_Kat12> you think if we do that with the liquid one next it in the same form?
+[07:01:39] [Server thread/INFO]: <Princess_Kat12> like 3*3 tank and up
+[07:01:53] [Server thread/INFO]: <_0x40_> yeah it should work
+[07:02:23] [Server thread/INFO]: <Princess_Kat12> how many creasote things?
+[07:02:29] [Server thread/INFO]: <Princess_Kat12> coke ovens i mena
+[07:02:40] [Server thread/INFO]: <Princess_Kat12> appart from all of them
+[07:02:40] [Server thread/INFO]: <_0x40_> 4 maybe for now?
+[07:02:58] [Server thread/INFO]: <Princess_Kat12> im guessing more is always better
+[07:03:01] [Server thread/INFO]: <_0x40_> I think that keeps up with a 3x3 liquid boiler
+[07:05:46] [Server thread/INFO]: There are 2/20 players online:
+[07:05:46] [Server thread/INFO]: Princess_Kat12, _0x40_
+[07:06:19] [Server thread/INFO]: <Princess_Kat12> all the bricks i collected are not help
+[07:06:20] [Server thread/INFO]: <Princess_Kat12> sadge
+[07:07:11] [Server thread/INFO]: Server manually started a backup...
+[07:07:12] [Thread-22/INFO]: Backup starting - prepare for possible lag...
+[07:07:13] [Thread-22/INFO]: Worlds saved.
+[07:07:33] [Server thread/INFO]: <_0x40_> gonna need a lot of bronze for the steam pipes
+[07:07:34] [Thread-22/INFO]: Backup finished.
+[07:07:45] [Server thread/INFO]: <Princess_Kat12> dont think we have any rn
+[07:07:53] [Server thread/INFO]: <_0x40_> yeah I'm cooking some up
+[07:10:25] [Server thread/INFO]: <Princess_Kat12> there is 2 more small pipes
+[07:10:52] [Server thread/INFO]: <_0x40_> yeah we need the regular sized tho for 2 3x3 boilers
+[07:11:08] [Server thread/INFO]: <Princess_Kat12> well as we only have 1 tank rn
+[07:11:20] [Server thread/INFO]: <_0x40_> yeah could upgrade later
+[07:11:33] [Server thread/INFO]: <Princess_Kat12> just a connection would be nice
+[07:15:22] [Server thread/INFO]: _0x40_ has just earned the achievement [Bronze]
+[07:18:32] [Server thread/INFO]: <Princess_Kat12> for now should i build the 5 second floor so we can not have to make as much bronze pipe?
+[07:18:42] [Server thread/INFO]: <Princess_Kat12> 5 high second floor
+[07:19:00] [Server thread/INFO]: <_0x40_> sure
+[07:20:46] [Server thread/INFO]: There are 2/20 players online:
+[07:20:46] [Server thread/INFO]: Princess_Kat12, _0x40_
+[07:21:05] [Server thread/INFO]: <Princess_Kat12> will anything we have rn have a problem with rain if i remove the roof for a bit?
+[07:21:21] [Server thread/INFO]: <_0x40_> I don't think so
+[07:21:30] [Server thread/INFO]: <_0x40_> it's just electric stuff that's a problem
+[07:21:39] [Server thread/INFO]: <Princess_Kat12> okay as ive heard some stuff does guess we just dont have it yet
+[07:22:03] [Server thread/INFO]: <Princess_Kat12> can you wrench the pipes?
+[07:23:14] [Server thread/INFO]: <Princess_Kat12> yeah machines will be on the slab
+[07:23:34] [Server thread/INFO]: Server manually started a backup...
+[07:23:34] [Thread-24/INFO]: Backup starting - prepare for possible lag...
+[07:23:35] [Thread-24/INFO]: Worlds saved.
+[07:23:56] [Thread-24/INFO]: Backup finished.
+[07:26:19] [Server thread/INFO]: <Princess_Kat12> yeah there somwhere as the tanks will up somewhere around there if we need too
+[07:28:22] [Server thread/INFO]: <Princess_Kat12> is that slightly less terrible?
+[07:28:44] [Server thread/INFO]: <_0x40_> yeah seems good
+[07:29:01] [Server thread/INFO]: <Princess_Kat12> guess now we have to make sure we dont run out of water
+[07:29:17] [Server thread/INFO]: <_0x40_> yeah true
+[07:29:23] [Server thread/INFO]: <_0x40_> it will explode if it runs out
+[07:29:37] [Server thread/INFO]: <Princess_Kat12> well that would be a spectacular start to steam
+[07:29:43] [Server thread/INFO]: <_0x40_> haha
+[07:31:26] [Server thread/INFO]: <Princess_Kat12> i had grand plans to make steel today but it seems like im just rebuilding walls today
+[07:34:08] [Server thread/INFO]: <Princess_Kat12> sorry this place is such a mess rn
+[07:35:46] [Server thread/INFO]: There are 2/20 players online:
+[07:35:46] [Server thread/INFO]: Princess_Kat12, _0x40_
+[07:39:51] [Server thread/INFO]: Server manually started a backup...
+[07:39:51] [Thread-26/INFO]: Backup starting - prepare for possible lag...
+[07:39:52] [Thread-26/INFO]: Worlds saved.
+[07:40:14] [Thread-26/INFO]: Backup finished.
+[07:43:02] [Server thread/INFO]: _0x40_ has just earned the achievement [Bake Bread]
+[07:44:42] [Server thread/INFO]: <Princess_Kat12> this is some depressing concrete block energyt
+[07:44:56] [Server thread/INFO]: <_0x40_> true
+[07:45:14] [Server thread/INFO]: <Princess_Kat12> but once this is moved and the chests are moved space will be more usuable
+[07:45:44] [Server thread/INFO]: <_0x40_> yeah it's good for a starter base I think
+[07:45:49] [Server thread/INFO]: <_0x40_> it's better than mine was
+[07:46:05] [Server thread/INFO]: <Princess_Kat12> i had a cave
+[07:46:07] [Server thread/INFO]: <Princess_Kat12> so
+[07:46:13] [Server thread/INFO]: <_0x40_> same
+[07:47:03] [Server thread/INFO]: <Princess_Kat12> sorry
+[07:47:10] [Server thread/INFO]: <_0x40_> haha that scared me
+[07:47:23] [Server thread/INFO]: <_0x40_> no worries
+[07:47:35] [Server thread/INFO]: <Princess_Kat12> move those when you want i just put them there so they were out the way
+[07:49:50] [Server thread/INFO]: <Princess_Kat12> there is 2 more pipes
+[07:49:55] [Server thread/INFO]: <Princess_Kat12> i keep finding them
+[07:50:46] [Server thread/INFO]: There are 2/20 players online:
+[07:50:46] [Server thread/INFO]: Princess_Kat12, _0x40_
+[07:50:54] [Server thread/INFO]: <Princess_Kat12> we making enough steam?
+[07:51:01] [Server thread/INFO]: <_0x40_> yeah seems like it
+[07:51:10] [Server thread/INFO]: <Princess_Kat12> noice so this was worth the effort then
+[07:51:35] [Server thread/INFO]: <Princess_Kat12> prepare for a rain of items possibly
+[07:53:22] [Server thread/INFO]: <Princess_Kat12> should i move the stairs do you think?
+[07:53:39] [Server thread/INFO]: <Princess_Kat12> maybe too a side
+[07:54:13] [Server thread/INFO]: <_0x40_> yeah maybe
+[07:56:05] [Server thread/INFO]: Server manually started a backup...
+[07:56:05] [Thread-28/INFO]: Backup starting - prepare for possible lag...
+[07:56:06] [Thread-28/INFO]: Worlds saved.
+[07:56:22] [Server thread/INFO]: <Princess_Kat12> dam the thing that i need that would this way easier is really far
+[07:56:29] [Thread-28/INFO]: Backup finished.
+[07:58:03] [Server thread/INFO]: <_0x40_> seems like it can't keep up with 3 machines
+[07:58:48] [Server thread/INFO]: <Princess_Kat12> well thats a shame
+[07:59:01] [Server thread/INFO]: <Princess_Kat12> still less terrible than the normal boiler
+[07:59:30] [Server thread/INFO]: <_0x40_> with 2x2 it will keep up but it will eat a lot of charcoal
+[07:59:41] [Server thread/INFO]: <_0x40_> so I think next step is more coke ovens
+[07:59:47] [Server thread/INFO]: <Princess_Kat12> yeah probably
+[08:00:30] [Server thread/INFO]: <_0x40_> and we need tinkers axe so we can get logs easier
+[08:00:40] [Server thread/INFO]: <_0x40_> and for that we need a lot of iron
+[08:00:41] [Server thread/INFO]: <Princess_Kat12> yeah but we need the better table first
+[08:01:01] [Server thread/INFO]: <Princess_Kat12> that seems a better use of space
+[08:01:28] [Server thread/INFO]: <Princess_Kat12> i do have almost all the parts i need for the steel oven
+[08:02:02] [Server thread/INFO]: <_0x40_> ah good do you wanna work on that and I'll do the tinker table?
+[08:02:21] [Server thread/INFO]: <Princess_Kat12> yeah you will need to make alumite tho
+[08:03:00] [Server thread/INFO]: <_0x40_> right, gotta get obsidian
+[08:04:26] [Server thread/INFO]: <Princess_Kat12> alright once ive emptied my inv for the 30 millionth time ill get on my steel machine
+[08:05:46] [Server thread/INFO]: There are 2/20 players online:
+[08:05:46] [Server thread/INFO]: Princess_Kat12, _0x40_
+[08:08:31] [Server thread/INFO]: <Princess_Kat12> i need to wait for stuff to cook you need any help?
+[08:08:51] [Server thread/INFO]: <Princess_Kat12> o wait i need to collect stuff so no
+[08:09:16] [Server thread/INFO]: <_0x40_> if you know of any lava lakes nearby that would help
+[08:09:33] [Server thread/INFO]: <Princess_Kat12> no sorry i filled that last time via village theft
+[08:09:43] [Server thread/INFO]: <Princess_Kat12> o i also have the gloves if you want them
+[08:10:11] [Server thread/INFO]: <_0x40_> thanks
+[08:10:18] [Server thread/INFO]: <Princess_Kat12> you want an iron bucket?
+[08:10:20] [Server thread/INFO]: <Princess_Kat12> ive got 4
+[08:10:30] [Server thread/INFO]: <_0x40_> nah I got one
+[08:12:13] [Server thread/INFO]: Server manually started a backup...
+[08:12:13] [Thread-30/INFO]: Backup starting - prepare for possible lag...
+[08:12:14] [Thread-30/INFO]: Worlds saved.
+[08:12:35] [Thread-30/INFO]: Backup finished.
+[08:15:47] [Server thread/INFO]: <Princess_Kat12> i love trying to find the rare bit of an ore vein
+[08:16:07] [Server thread/INFO]: <_0x40_> yeah, hammer will make it so much faster
+[08:16:14] [Server thread/INFO]: <Princess_Kat12> i cannot wait
+[08:16:21] [Server thread/INFO]: <_0x40_> just have to locate some lava
+[08:20:46] [Server thread/INFO]: There are 2/20 players online:
+[08:20:46] [Server thread/INFO]: Princess_Kat12, _0x40_
+[08:23:08] [Server thread/INFO]: <Princess_Kat12> hows the lava going
+[08:23:37] [Server thread/INFO]: <_0x40_> haven't found a lava pool yet
+[08:25:38] [Server thread/INFO]: <Princess_Kat12> do you know if i replace the head of my pick with a better one the upgrades ive got stay on?
+[08:26:15] [Server thread/INFO]: <_0x40_> you keep the tool level at least
+[08:26:50] [Server thread/INFO]: <_0x40_> I think you keep everything but I'm not 100% sure
+[08:29:01] [Server thread/INFO]: Server manually started a backup...
+[08:29:01] [Thread-32/INFO]: Backup starting - prepare for possible lag...
+[08:29:03] [Thread-32/INFO]: Worlds saved.
+[08:29:13] [Server thread/INFO]: <Princess_Kat12> did you take some bricks out of these iron furnaces?
+[08:29:25] [Thread-32/INFO]: Backup finished.
+[08:29:29] [Server thread/INFO]: <Princess_Kat12> o you put them in my chest
+[08:29:31] [Server thread/INFO]: <Princess_Kat12> thanks
+[08:30:13] [Server thread/INFO]: <Princess_Kat12> i need a another machine
+[08:30:27] [Server thread/INFO]: <_0x40_> what machine?
+[08:30:59] [Server thread/INFO]: <Princess_Kat12> forge ammer
+[08:31:04] [Server thread/INFO]: <Princess_Kat12> hammer*
+[08:35:46] [Server thread/INFO]: There are 2/20 players online:
+[08:35:46] [Server thread/INFO]: Princess_Kat12, _0x40_
+[08:36:54] [Server thread/INFO]: <Princess_Kat12> never seems to be quite enough iron ever
+[08:37:16] [Server thread/INFO]: <_0x40_> I got some on me
+[08:37:19] [Server thread/INFO]: <_0x40_> 32
+[08:37:30] [Server thread/INFO]: <Princess_Kat12> ty
+[08:38:49] [Server thread/INFO]: <Princess_Kat12> hows the search for the pink ingot going
+[08:38:56] [Server thread/INFO]: <_0x40_> found lava
+[08:39:02] [Server thread/INFO]: <_0x40_> well, found lava noice
+[08:39:05] [Server thread/INFO]: <_0x40_> yet to locate it
+[08:39:16] [Server thread/INFO]: <_0x40_> ah there it is
+[08:39:25] [Server thread/INFO]: <Princess_Kat12> eye noice
+[08:39:34] [Server thread/INFO]: <Princess_Kat12> if there is a lot could i get the coords
+[08:40:12] [Server thread/INFO]: <_0x40_> x338, z-674, y22
+[08:40:16] [Server thread/INFO]: <Princess_Kat12> ty
+[08:40:51] [Server thread/INFO]: <Princess_Kat12> .
+[08:42:41] [Server thread/INFO]: <Princess_Kat12> so whats the news on bronze?
+[08:43:17] [Server thread/INFO]: <_0x40_> there should be a stack in the ingot chest and more smelting up
+[08:44:42] [Server thread/INFO]: <_0x40_> oh I gotta level up my pick before I can actually mine obby
+[08:45:03] [Server thread/INFO]: <Princess_Kat12> yeah im on redstone saddly so no help there im afraid
+[08:45:06] [Server thread/INFO]: <_0x40_> guess I'll mine some iron
+[08:45:18] [Server thread/INFO]: Server manually started a backup...
+[08:45:18] [Thread-34/INFO]: Backup starting - prepare for possible lag...
+[08:45:19] [Thread-34/INFO]: Worlds saved.
+[08:45:41] [Thread-34/INFO]: Backup finished.
+[08:46:40] [Server thread/INFO]: <Princess_Kat12> ive lost a macerator
+[08:46:59] [Server thread/INFO]: <_0x40_> oh what happened?
+[08:47:10] [Server thread/INFO]: <Princess_Kat12> i picked it up to place the machine i needed
+[08:47:13] [Server thread/INFO]: <Princess_Kat12> and i cant find it
+[08:48:11] [Server thread/INFO]: <Princess_Kat12> how did i lose it
+[08:50:47] [Server thread/INFO]: There are 2/20 players online:
+[08:50:47] [Server thread/INFO]: Princess_Kat12, _0x40_
+[09:01:09] [Server thread/INFO]: <Princess_Kat12> i love the things that have to go back in a machine that it just came out of
+[09:01:42] [Server thread/INFO]: Server manually started a backup...
+[09:01:42] [Thread-36/INFO]: Backup starting - prepare for possible lag...
+[09:01:43] [Thread-36/INFO]: Worlds saved.
+[09:02:05] [Thread-36/INFO]: Backup finished.
+[09:03:32] [Server thread/INFO]: <Princess_Kat12> i had 4 buckets ive now lost 4 buckets
+[09:03:49] [Server thread/INFO]: <_0x40_> are they not in the iron furnaces?
+[09:04:04] [Server thread/INFO]: <Princess_Kat12> no they are still in my inv im just fuckin blind
+[09:04:52] [Server thread/INFO]: <Princess_Kat12> it is impressive i am this blind
+[09:04:59] [Server thread/INFO]: <Princess_Kat12> and still be able to see
+[09:05:47] [Server thread/INFO]: There are 2/20 players online:
+[09:05:47] [Server thread/INFO]: Princess_Kat12, _0x40_
+[09:07:01] [Server thread/INFO]: <_0x40_> finally got obby mining level
+[09:07:05] [Server thread/INFO]: <_0x40_> and a ton of iron
+[09:07:17] [Server thread/INFO]: <_0x40_> mineral sand is 4x when macerated for some reason
+[09:07:17] [Server thread/INFO]: <Princess_Kat12> i found my other macerator
+[09:07:31] [Server thread/INFO]: <Princess_Kat12> it was in the hopper
+[09:07:35] [Server thread/INFO]: <_0x40_> oh lol
+[09:07:49] [Server thread/INFO]: <Princess_Kat12> big brain hours
+[09:09:51] [Server thread/INFO]: <Princess_Kat12> can i hopper into another hopper?
+[09:09:57] [Server thread/INFO]: <_0x40_> you can
+[09:13:01] [Server thread/INFO]: <Princess_Kat12> the steam is no where near as consitant as i was hoping
+[09:13:46] [Server thread/INFO]: <_0x40_> yeah we need bigger boiler and for that we need more coke ovens
+[09:14:11] [Server thread/INFO]: <Princess_Kat12> i mean its still a lot less terrible than the small boiler
+[09:18:04] [Server thread/INFO]: Server manually started a backup...
+[09:18:04] [Thread-38/INFO]: Backup starting - prepare for possible lag...
+[09:18:05] [Thread-38/INFO]: Worlds saved.
+[09:18:09] [Server thread/INFO]: <Princess_Kat12> nearly there on the smelter
+[09:18:19] [Server thread/INFO]: <Princess_Kat12> just waiting on the machines
+[09:18:26] [Thread-38/INFO]: Backup finished.
+[09:18:51] [Server thread/INFO]: <_0x40_> i got half a stack of obby
+[09:19:11] [Server thread/INFO]: <Princess_Kat12> oo very good
+[09:20:27] [Server thread/INFO]: Princess_Kat12 has just earned the achievement [Sticky Situation]
+[09:20:47] [Server thread/INFO]: There are 2/20 players online:
+[09:20:47] [Server thread/INFO]: Princess_Kat12, _0x40_
+[09:23:25] [Server thread/INFO]: <Princess_Kat12> can i craft somthing?
+[09:23:36] [Server thread/INFO]: <_0x40_> sure
+[09:27:26] [Server thread/INFO]: [Server] server restart at 11am GMT 1
+[09:27:26] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[09:28:18] [Server thread/INFO]: <Princess_Kat12> i do love mixing the wrong metals
+[09:28:28] [Server thread/INFO]: <_0x40_> yeah
+[09:28:33] [Server thread/INFO]: <_0x40_> that happens to me all the time
+[09:30:25] [Server thread/INFO]: <Princess_Kat12> and it just mixed into the wrong thing again
+[09:30:27] [Server thread/INFO]: <Princess_Kat12> reeeeeeeee
+[09:31:05] [Server thread/INFO]: <Princess_Kat12> guess ill just empty it and remix again
+[09:35:09] [Server thread/INFO]: Server manually started a backup...
+[09:35:09] [Thread-40/INFO]: Backup starting - prepare for possible lag...
+[09:35:10] [Thread-40/INFO]: Worlds saved.
+[09:35:32] [Thread-40/INFO]: Backup finished.
+[09:35:47] [Server thread/INFO]: There are 2/20 players online:
+[09:35:47] [Server thread/INFO]: Princess_Kat12, _0x40_
+[09:37:11] [Server thread/INFO]: <Princess_Kat12> more special bricks
+[09:37:57] [Server thread/INFO]: <Princess_Kat12> the amount of multi things on this just to make a brick is silly
+[09:38:42] [Server thread/INFO]: <Princess_Kat12> obsidian dosnt alloy with anything right
+[09:38:55] [Server thread/INFO]: <_0x40_> nope just alumite I'm pretty sure
+[09:41:15] [Server thread/INFO]: <Princess_Kat12> all i wanted to do was to make an axe head
+[09:44:10] [Server thread/INFO]: <Princess_Kat12> 20 mins then we should have the steel oven
+[09:46:34] [Server thread/INFO]: [Server] if you don t like convoluted crafting this is not the right modpqck for you :D
+[09:46:34] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[09:47:00] [Server thread/INFO]: <Princess_Kat12> nah its fine its more its just slow af rn
+[09:47:01] [Server thread/INFO]: <_0x40_> yeah it gets way more convoluted later on I've heard
+[09:49:39] [Server thread/INFO]: [Server] when we get to lv, we need to batch craft everything
+[09:49:39] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[09:49:51] [Server thread/INFO]: <_0x40_> yeah and we need a ton of steel
+[09:50:02] [Server thread/INFO]: [Server] you don t make one circuit, you make 64
+[09:50:02] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[09:50:47] [Server thread/INFO]: There are 2/20 players online:
+[09:50:47] [Server thread/INFO]: Princess_Kat12, _0x40_
+[09:51:02] [Server thread/INFO]: [Server] also, restart in 10min
+[09:51:02] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[09:51:12] [Server thread/INFO]: <Princess_Kat12> get back to work flo
+[09:51:33] [Server thread/INFO]: Server manually started a backup...
+[09:51:33] [Thread-42/INFO]: Backup starting - prepare for possible lag...
+[09:51:34] [Thread-42/INFO]: Worlds saved.
+[09:51:56] [Thread-42/INFO]: Backup finished.
+[09:52:59] [Server thread/INFO]: <Princess_Kat12> you will be glad to we have ran out of ingots again
+[09:58:10] [Server thread/INFO]: <Princess_Kat12> alrighty i now have enough rods to make 2 more tanks
+[09:58:16] [Server thread/INFO]: <_0x40_> nice
+[09:58:17] [Server thread/INFO]: <Princess_Kat12> water tanks
+[10:04:34] [Server thread/INFO]: <Princess_Kat12> yay
+[10:05:47] [Server thread/INFO]: There are 2/20 players online:
+[10:05:47] [Server thread/INFO]: Princess_Kat12, _0x40_
+[10:08:03] [Server thread/INFO]: Server manually started a backup...
+[10:08:03] [Thread-44/INFO]: Backup starting - prepare for possible lag...
+[10:08:04] [Thread-44/INFO]: Worlds saved.
+[10:08:26] [Thread-44/INFO]: Backup finished.
+[10:08:35] [Server thread/INFO]: <Princess_Kat12> do we have any wooden pipes?
+[10:10:57] [Server thread/INFO]: <Princess_Kat12> hi
+[10:10:59] [Server thread/INFO]: <_0x40_> hi
+[10:11:09] [Server thread/INFO]: <Princess_Kat12> 2 tanks are on the roof and filling
+[10:11:10] [Server thread/INFO]: <_0x40_> the bricks are in that large chest
+[10:11:16] [Server thread/INFO]: <Princess_Kat12> ah thanks
+[10:12:15] [Server thread/INFO]: <Princess_Kat12> what size of pipes did you use for the wood?
+[10:12:24] [Server thread/INFO]: <_0x40_> small
+[10:13:45] [Server thread/INFO]: <Princess_Kat12> well its time to hope this dosnt explode
+[10:15:07] [Server thread/INFO]: <Princess_Kat12> it didnt
+[10:15:08] [Server thread/INFO]: <Princess_Kat12> noice
+[10:16:32] [Server thread/INFO]: <Princess_Kat12> alright all 3 tanks are connected
+[10:16:41] [Server thread/INFO]: <_0x40_> awesome
+[10:16:49] [Server thread/INFO]: <Princess_Kat12> however once we have more boilers we might need bigger wooden pipes
+[10:17:17] [Server thread/INFO]: <_0x40_> yeah true
+[10:17:29] [Server thread/INFO]: <Princess_Kat12> but that is not a problem wood pipes are easy to make
+[10:20:47] [Server thread/INFO]: There are 2/20 players online:
+[10:20:47] [Server thread/INFO]: Princess_Kat12, _0x40_
+[10:21:21] [Server thread/INFO]: [Server] I was interrupted by a collegue before the restart so Isay restarting
+[10:21:21] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[10:22:15] [Server thread/INFO]: Stopping the server
+[10:22:15] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[10:22:15] [Server thread/INFO]: Stopping server
+[10:22:15] [Server thread/INFO]: Saving players
+[10:22:15] [Server thread/INFO]: Saving worlds
+[10:22:15] [Server thread/INFO]: Saving chunks for level 'World'/Overworld
+[10:22:15] [Server thread/INFO]: Saving chunks for level 'World'/Nether
+[10:22:15] [Server thread/INFO]: Saving chunks for level 'World'/Miranda
+[10:22:15] [Server thread/INFO]: Saving chunks for level 'World'/T Ceti E
+[10:22:15] [Server thread/INFO]: Saving chunks for level 'World'/Vega B
+[10:22:15] [Server thread/INFO]: Saving chunks for level 'World'/Haumea
+[10:22:15] [Server thread/INFO]: Saving chunks for level 'World'/Barnarda F
+[10:22:15] [Server thread/INFO]: Saving chunks for level 'World'/Barnarda E
+[10:22:15] [Server thread/INFO]: Saving chunks for level 'World'/Outer Lands
+[10:22:15] [Server thread/INFO]: Saving chunks for level 'World'/Saturn
+[10:22:15] [Server thread/INFO]: Saving chunks for level 'World'/Neptune
+[10:22:15] [Server thread/INFO]: Saving chunks for level 'World'/Jupiter
+[10:22:15] [Server thread/INFO]: Saving chunks for level 'World'/Mirror
+[10:22:15] [Server thread/INFO]: Saving chunks for level 'World'/Pocket Plane
+[10:22:15] [Server thread/INFO]: Saving chunks for level 'World'/Ross128b
+[10:22:15] [Server thread/INFO]: Saving chunks for level 'World'/Ross128ba
+[10:22:15] [Server thread/INFO]: Saving chunks for level 'World'/Bedrock
+[10:22:15] [Server thread/INFO]: Saving chunks for level 'World'/Torment
+[10:22:15] [Server thread/INFO]: Saving chunks for level 'World'/Spirit World
+[10:22:15] [Server thread/INFO]: Saving chunks for level 'World'/Uranus
+[10:22:15] [Server thread/INFO]: Saving chunks for level 'World'/The Outer Lands
+[10:22:15] [Server thread/INFO]: Saving chunks for level 'World'/Pluto
+[10:22:15] [Server thread/INFO]: Saving chunks for level 'World'/Triton
+[10:22:15] [Server thread/INFO]: Saving chunks for level 'World'/Proteus
+[10:22:15] [Server thread/INFO]: Saving chunks for level 'World'/Oberon
+[10:22:15] [Server thread/INFO]: Saving chunks for level 'World'/Callisto
+[10:22:15] [Server thread/INFO]: Saving chunks for level 'World'/Titan
+[10:22:15] [Server thread/INFO]: Saving chunks for level 'World'/Ganymede
+[10:22:15] [Server thread/INFO]: Saving chunks for level 'World'/Ceres
+[10:22:15] [Server thread/INFO]: Saving chunks for level 'World'/Enceladus
+[10:22:15] [Server thread/INFO]: Saving chunks for level 'World'/Deimos
+[10:22:15] [Server thread/INFO]: Saving chunks for level 'World'/Venus
+[10:22:15] [Server thread/INFO]: Saving chunks for level 'World'/Phobos
+[10:22:15] [Server thread/INFO]: Saving chunks for level 'World'/Mercury
+[10:22:15] [Server thread/INFO]: Saving chunks for level 'World'/dimensionDarkWorld
+[10:22:15] [Server thread/INFO]: Saving chunks for level 'World'/Io
+[10:22:15] [Server thread/INFO]: Saving chunks for level 'World'/Europa
+[10:22:15] [Server thread/INFO]: Saving chunks for level 'World'/Kuiper Belt
+[10:22:15] [Server thread/INFO]: Saving chunks for level 'World'/Barnarda C
+[10:22:15] [Server thread/INFO]: Saving chunks for level 'World'/α Centauri Bb
+[10:22:15] [Server thread/INFO]: Saving chunks for level 'World'/Asteroids
+[10:22:15] [Server thread/INFO]: Saving chunks for level 'World'/Mars
+[10:22:15] [Server thread/INFO]: Saving chunks for level 'World'/Moon
+[10:22:15] [Server thread/INFO]: Saving chunks for level 'World'/Makemake
+[10:22:15] [Server thread/INFO]: Saving chunks for level 'World'/The Last Millenium
+[10:22:15] [Server thread/INFO]: Saving chunks for level 'World'/Twilight Forest
+[10:22:15] [Server thread/INFO]: Saving chunks for level 'World'/Underdark
+[10:22:15] [Server thread/INFO]: Saving chunks for level 'World'/SpectreWorld
