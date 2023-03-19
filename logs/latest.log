@@ -1,64 +1,64 @@
-[15:04:48] [Server thread/INFO]: Starting minecraft server version 1.7.10
-[15:05:53] [Server thread/INFO]: Loading properties
-[15:05:53] [Server thread/INFO]: Default game type: SURVIVAL
-[15:05:53] [Server thread/INFO]: Generating keypair
-[15:05:53] [Server thread/INFO]: Starting Minecraft server on *:25565
-[15:07:50] [Server thread/INFO]: Preparing level "World"
-[15:07:52] [Server thread/INFO]: Preparing start region for level 0
-[15:07:53] [Server thread/INFO]: Preparing spawn area: 68%
-[15:07:53] [Server thread/INFO]: Done (14.074s)! For help, type "help" or "?"
-[15:08:06] [User Authenticator #1/INFO]: UUID of player flfloflflo is a8f6a6e1-6e37-44bb-b388-6489f06d63bc
-[15:08:07] [Server thread/INFO]: flfloflflo[/85.201.76.90:56686] logged in with entity id 532 at (323.9981673383066, 30.0, -433.6379981500758)
-[15:08:07] [Server thread/INFO]: flfloflflo joined the game
-[15:08:34] [Server thread/INFO]: [flfloflflo: Stopping the server]
-[15:08:34] [Server thread/INFO]: Stopping server
-[15:08:34] [Server thread/INFO]: Saving players
-[15:08:34] [Server thread/INFO]: Saving worlds
-[15:08:34] [Server thread/INFO]: Saving chunks for level 'World'/Overworld
-[15:08:34] [Server thread/INFO]: Saving chunks for level 'World'/Nether
-[15:08:34] [Server thread/INFO]: Saving chunks for level 'World'/Miranda
-[15:08:34] [Server thread/INFO]: Saving chunks for level 'World'/T Ceti E
-[15:08:34] [Server thread/INFO]: Saving chunks for level 'World'/Vega B
-[15:08:34] [Server thread/INFO]: Saving chunks for level 'World'/Haumea
-[15:08:34] [Server thread/INFO]: Saving chunks for level 'World'/Barnarda F
-[15:08:34] [Server thread/INFO]: Saving chunks for level 'World'/Barnarda E
-[15:08:34] [Server thread/INFO]: Saving chunks for level 'World'/Outer Lands
-[15:08:34] [Server thread/INFO]: Saving chunks for level 'World'/Saturn
-[15:08:34] [Server thread/INFO]: Saving chunks for level 'World'/Neptune
-[15:08:34] [Server thread/INFO]: Saving chunks for level 'World'/Jupiter
-[15:08:34] [Server thread/INFO]: Saving chunks for level 'World'/Mirror
-[15:08:34] [Server thread/INFO]: Saving chunks for level 'World'/Pocket Plane
-[15:08:34] [Server thread/INFO]: Saving chunks for level 'World'/Ross128b
-[15:08:34] [Server thread/INFO]: Saving chunks for level 'World'/Ross128ba
-[15:08:34] [Server thread/INFO]: Saving chunks for level 'World'/Bedrock
-[15:08:34] [Server thread/INFO]: Saving chunks for level 'World'/Torment
-[15:08:34] [Server thread/INFO]: Saving chunks for level 'World'/Spirit World
-[15:08:34] [Server thread/INFO]: Saving chunks for level 'World'/Uranus
-[15:08:34] [Server thread/INFO]: Saving chunks for level 'World'/The Outer Lands
-[15:08:34] [Server thread/INFO]: Saving chunks for level 'World'/Pluto
-[15:08:34] [Server thread/INFO]: Saving chunks for level 'World'/Triton
-[15:08:34] [Server thread/INFO]: Saving chunks for level 'World'/Proteus
-[15:08:34] [Server thread/INFO]: Saving chunks for level 'World'/Oberon
-[15:08:34] [Server thread/INFO]: Saving chunks for level 'World'/Callisto
-[15:08:34] [Server thread/INFO]: Saving chunks for level 'World'/Titan
-[15:08:34] [Server thread/INFO]: Saving chunks for level 'World'/Ganymede
-[15:08:34] [Server thread/INFO]: Saving chunks for level 'World'/Ceres
-[15:08:34] [Server thread/INFO]: Saving chunks for level 'World'/Enceladus
-[15:08:34] [Server thread/INFO]: Saving chunks for level 'World'/Deimos
-[15:08:34] [Server thread/INFO]: Saving chunks for level 'World'/Venus
-[15:08:34] [Server thread/INFO]: Saving chunks for level 'World'/Phobos
-[15:08:34] [Server thread/INFO]: Saving chunks for level 'World'/Mercury
-[15:08:34] [Server thread/INFO]: Saving chunks for level 'World'/dimensionDarkWorld
-[15:08:34] [Server thread/INFO]: Saving chunks for level 'World'/Io
-[15:08:34] [Server thread/INFO]: Saving chunks for level 'World'/Europa
-[15:08:34] [Server thread/INFO]: Saving chunks for level 'World'/Kuiper Belt
-[15:08:34] [Server thread/INFO]: Saving chunks for level 'World'/Barnarda C
-[15:08:34] [Server thread/INFO]: Saving chunks for level 'World'/α Centauri Bb
-[15:08:34] [Server thread/INFO]: Saving chunks for level 'World'/Asteroids
-[15:08:34] [Server thread/INFO]: Saving chunks for level 'World'/Mars
-[15:08:34] [Server thread/INFO]: Saving chunks for level 'World'/Moon
-[15:08:34] [Server thread/INFO]: Saving chunks for level 'World'/Makemake
-[15:08:34] [Server thread/INFO]: Saving chunks for level 'World'/The Last Millenium
-[15:08:34] [Server thread/INFO]: Saving chunks for level 'World'/Twilight Forest
-[15:08:34] [Server thread/INFO]: Saving chunks for level 'World'/Underdark
-[15:08:34] [Server thread/INFO]: Saving chunks for level 'World'/SpectreWorld
+[15:12:03] [Server thread/INFO]: Starting minecraft server version 1.7.10
+[15:13:06] [Server thread/INFO]: Loading properties
+[15:13:06] [Server thread/INFO]: Default game type: SURVIVAL
+[15:13:06] [Server thread/INFO]: Generating keypair
+[15:13:06] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:15:01] [Server thread/INFO]: Preparing level "World"
+[15:15:03] [Server thread/INFO]: Preparing start region for level 0
+[15:15:04] [Server thread/INFO]: Preparing spawn area: 67%
+[15:15:04] [Server thread/INFO]: Done (14.687s)! For help, type "help" or "?"
+[15:18:34] [User Authenticator #1/INFO]: UUID of player flfloflflo is a8f6a6e1-6e37-44bb-b388-6489f06d63bc
+[15:18:36] [Server thread/INFO]: flfloflflo[/85.201.76.90:57276] logged in with entity id 534 at (323.9981673383066, 30.0, -433.6379981500758)
+[15:18:36] [Server thread/INFO]: flfloflflo joined the game
+[15:19:39] [Server thread/INFO]: [flfloflflo: Stopping the server]
+[15:19:39] [Server thread/INFO]: Stopping server
+[15:19:39] [Server thread/INFO]: Saving players
+[15:19:39] [Server thread/INFO]: Saving worlds
+[15:19:39] [Server thread/INFO]: Saving chunks for level 'World'/Overworld
+[15:19:39] [Server thread/INFO]: Saving chunks for level 'World'/Nether
+[15:19:39] [Server thread/INFO]: Saving chunks for level 'World'/Miranda
+[15:19:39] [Server thread/INFO]: Saving chunks for level 'World'/T Ceti E
+[15:19:39] [Server thread/INFO]: Saving chunks for level 'World'/Vega B
+[15:19:39] [Server thread/INFO]: Saving chunks for level 'World'/Haumea
+[15:19:39] [Server thread/INFO]: Saving chunks for level 'World'/Barnarda F
+[15:19:39] [Server thread/INFO]: Saving chunks for level 'World'/Barnarda E
+[15:19:39] [Server thread/INFO]: Saving chunks for level 'World'/Outer Lands
+[15:19:39] [Server thread/INFO]: Saving chunks for level 'World'/Saturn
+[15:19:39] [Server thread/INFO]: Saving chunks for level 'World'/Neptune
+[15:19:39] [Server thread/INFO]: Saving chunks for level 'World'/Jupiter
+[15:19:39] [Server thread/INFO]: Saving chunks for level 'World'/Mirror
+[15:19:39] [Server thread/INFO]: Saving chunks for level 'World'/Pocket Plane
+[15:19:39] [Server thread/INFO]: Saving chunks for level 'World'/Ross128b
+[15:19:39] [Server thread/INFO]: Saving chunks for level 'World'/Ross128ba
+[15:19:39] [Server thread/INFO]: Saving chunks for level 'World'/Bedrock
+[15:19:39] [Server thread/INFO]: Saving chunks for level 'World'/Torment
+[15:19:39] [Server thread/INFO]: Saving chunks for level 'World'/Spirit World
+[15:19:39] [Server thread/INFO]: Saving chunks for level 'World'/Uranus
+[15:19:39] [Server thread/INFO]: Saving chunks for level 'World'/The Outer Lands
+[15:19:39] [Server thread/INFO]: Saving chunks for level 'World'/Pluto
+[15:19:39] [Server thread/INFO]: Saving chunks for level 'World'/Triton
+[15:19:39] [Server thread/INFO]: Saving chunks for level 'World'/Proteus
+[15:19:39] [Server thread/INFO]: Saving chunks for level 'World'/Oberon
+[15:19:39] [Server thread/INFO]: Saving chunks for level 'World'/Callisto
+[15:19:39] [Server thread/INFO]: Saving chunks for level 'World'/Titan
+[15:19:39] [Server thread/INFO]: Saving chunks for level 'World'/Ganymede
+[15:19:39] [Server thread/INFO]: Saving chunks for level 'World'/Ceres
+[15:19:39] [Server thread/INFO]: Saving chunks for level 'World'/Enceladus
+[15:19:39] [Server thread/INFO]: Saving chunks for level 'World'/Deimos
+[15:19:39] [Server thread/INFO]: Saving chunks for level 'World'/Venus
+[15:19:39] [Server thread/INFO]: Saving chunks for level 'World'/Phobos
+[15:19:39] [Server thread/INFO]: Saving chunks for level 'World'/Mercury
+[15:19:39] [Server thread/INFO]: Saving chunks for level 'World'/dimensionDarkWorld
+[15:19:39] [Server thread/INFO]: Saving chunks for level 'World'/Io
+[15:19:39] [Server thread/INFO]: Saving chunks for level 'World'/Europa
+[15:19:39] [Server thread/INFO]: Saving chunks for level 'World'/Kuiper Belt
+[15:19:39] [Server thread/INFO]: Saving chunks for level 'World'/Barnarda C
+[15:19:39] [Server thread/INFO]: Saving chunks for level 'World'/α Centauri Bb
+[15:19:39] [Server thread/INFO]: Saving chunks for level 'World'/Asteroids
+[15:19:39] [Server thread/INFO]: Saving chunks for level 'World'/Mars
+[15:19:39] [Server thread/INFO]: Saving chunks for level 'World'/Moon
+[15:19:39] [Server thread/INFO]: Saving chunks for level 'World'/Makemake
+[15:19:39] [Server thread/INFO]: Saving chunks for level 'World'/The Last Millenium
+[15:19:39] [Server thread/INFO]: Saving chunks for level 'World'/Twilight Forest
+[15:19:39] [Server thread/INFO]: Saving chunks for level 'World'/Underdark
+[15:19:39] [Server thread/INFO]: Saving chunks for level 'World'/SpectreWorld
