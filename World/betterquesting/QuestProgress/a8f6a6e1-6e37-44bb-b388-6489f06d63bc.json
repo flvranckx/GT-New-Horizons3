@@ -14006,8 +14006,8 @@
 					"userProgress:9": {
 						"0:10": {
 							"data:11": [
-								31,
 								0,
+								13,
 								0
 							],
 							"uuid:8": "a8f6a6e1-6e37-44bb-b388-6489f06d63bc"
@@ -14610,7 +14610,13 @@
 		},
 		"756:10": {
 			"questID:3": 756,
-			"completed:9": {},
+			"completed:9": {
+				"0:10": {
+					"claimed:1": 0,
+					"uuid:8": "a8f6a6e1-6e37-44bb-b388-6489f06d63bc",
+					"timestamp:4": 1679198389721
+				}
+			},
 			"tasks:9": {
 				"0:10": {
 					"completeUsers:9": {},
@@ -18840,7 +18846,7 @@
 					"userProgress:9": {
 						"0:10": {
 							"uuid:8": "a8f6a6e1-6e37-44bb-b388-6489f06d63bc",
-							"value:3": 6
+							"value:3": 7
 						}
 					},
 					"index:3": 0,
@@ -20704,7 +20710,9 @@
 					"taskID:8": "bq_standard:retrieval"
 				},
 				"2:10": {
-					"completeUsers:9": {},
+					"completeUsers:9": {
+						"0:8": "a8f6a6e1-6e37-44bb-b388-6489f06d63bc"
+					},
 					"index:3": 2,
 					"taskID:8": "bq_standard:location"
 				}
@@ -24946,7 +24954,13 @@
 		},
 		"1321:10": {
 			"questID:3": 1321,
-			"completed:9": {},
+			"completed:9": {
+				"0:10": {
+					"claimed:1": 0,
+					"uuid:8": "a8f6a6e1-6e37-44bb-b388-6489f06d63bc",
+					"timestamp:4": 1679198779772
+				}
+			},
 			"tasks:9": {
 				"0:10": {
 					"completeUsers:9": {
@@ -47602,7 +47616,12 @@
 			"tasks:9": {
 				"0:10": {
 					"completeUsers:9": {},
-					"userProgress:9": {},
+					"userProgress:9": {
+						"0:10": {
+							"uuid:8": "a8f6a6e1-6e37-44bb-b388-6489f06d63bc",
+							"value:3": 1
+						}
+					},
 					"index:3": 0,
 					"taskID:8": "bq_standard:hunt"
 				}
@@ -47617,7 +47636,7 @@
 					"userProgress:9": {
 						"0:10": {
 							"uuid:8": "a8f6a6e1-6e37-44bb-b388-6489f06d63bc",
-							"value:3": 1
+							"value:3": 2
 						}
 					},
 					"index:3": 0,
@@ -47684,7 +47703,12 @@
 			"tasks:9": {
 				"0:10": {
 					"completeUsers:9": {},
-					"userProgress:9": {},
+					"userProgress:9": {
+						"0:10": {
+							"uuid:8": "a8f6a6e1-6e37-44bb-b388-6489f06d63bc",
+							"value:3": 1
+						}
+					},
 					"index:3": 0,
 					"taskID:8": "bq_standard:hunt"
 				}
