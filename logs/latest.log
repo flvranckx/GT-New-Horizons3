@@ -1,190 +1,112 @@
-[20:46:39] [Server thread/INFO]: Starting minecraft server version 1.7.10
-[20:47:35] [Server thread/INFO]: Loading properties
-[20:47:35] [Server thread/INFO]: Default game type: SURVIVAL
-[20:47:35] [Server thread/INFO]: Generating keypair
-[20:47:35] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:49:13] [Server thread/INFO]: Preparing level "World"
-[20:49:15] [Server thread/INFO]: Preparing start region for level 0
-[20:49:16] [Server thread/INFO]: Preparing spawn area: 75%
-[20:49:17] [Server thread/INFO]: Done (10.981s)! For help, type "help" or "?"
-[20:50:43] [User Authenticator #1/INFO]: UUID of player _0x40_ is 33f9fa35-156a-4fc6-81c8-2ef8ece1065f
-[20:50:45] [Server thread/INFO]: _0x40_[/158.174.229.88:42338] logged in with entity id 549 at (364.61455638190415, 68.0, -641.6646339200144)
-[20:50:45] [Server thread/INFO]: _0x40_ joined the game
-[20:50:52] [User Authenticator #2/INFO]: UUID of player JustDiving is 133bf8c1-805b-491d-9141-f252e4650b13
-[20:50:53] [Server thread/INFO]: JustDiving[/185.215.55.200:29405] logged in with entity id 858 at (366.9465189001527, 69.0, -663.3323092124368)
-[20:50:53] [Server thread/INFO]: JustDiving joined the game
-[20:56:30] [Server thread/INFO]: There are 2/20 players online:
-[20:56:30] [Server thread/INFO]: _0x40_, JustDiving
-[20:58:31] [Server thread/INFO]: <JustDiving> Nice
-[21:01:30] [Server thread/INFO]: Server manually started a backup...
-[21:01:30] [Thread-20/INFO]: Backup starting - prepare for possible lag...
-[21:01:30] [Thread-20/INFO]: Worlds saved.
-[21:01:58] [Thread-20/INFO]: Backup finished.
-[21:06:30] [Server thread/INFO]: There are 2/20 players online:
-[21:06:30] [Server thread/INFO]: _0x40_, JustDiving
-[21:07:39] [Server thread/INFO]: <JustDiving> Goooood job
-[21:08:17] [Server thread/INFO]: <_0x40_> ty
-[21:11:06] [Server thread/INFO]: <JustDiving> Do machines transfer electricity directly, like production to consumption?
-[21:11:57] [Server thread/INFO]: <_0x40_> yeah kinda
-[21:12:14] [Server thread/INFO]: <JustDiving> k
-[21:16:30] [Server thread/INFO]: There are 2/20 players online:
-[21:16:30] [Server thread/INFO]: _0x40_, JustDiving
-[21:18:00] [Server thread/INFO]: Server manually started a backup...
-[21:18:00] [Thread-22/INFO]: Backup starting - prepare for possible lag...
-[21:18:01] [Thread-22/INFO]: Worlds saved.
-[21:18:29] [Thread-22/INFO]: Backup finished.
-[21:21:53] [Server thread/INFO]: <_0x40_> brb
-[21:21:55] [Server thread/INFO]: _0x40_ lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[21:21:55] [Server thread/INFO]: _0x40_ left the game
-[21:26:30] [Server thread/INFO]: There are 1/20 players online:
-[21:26:30] [Server thread/INFO]: JustDiving
-[21:34:31] [Server thread/INFO]: Server manually started a backup...
-[21:34:31] [Thread-25/INFO]: Backup starting - prepare for possible lag...
-[21:34:32] [Thread-25/INFO]: Worlds saved.
-[21:35:00] [Thread-25/INFO]: Backup finished.
-[21:36:24] [User Authenticator #3/INFO]: UUID of player _0x40_ is 33f9fa35-156a-4fc6-81c8-2ef8ece1065f
-[21:36:25] [Server thread/INFO]: _0x40_[/158.174.229.88:48642] logged in with entity id 44479 at (348.98575146831564, 68.0, -644.7204260412472)
-[21:36:25] [Server thread/INFO]: _0x40_ joined the game
-[21:36:30] [Server thread/INFO]: There are 2/20 players online:
-[21:36:30] [Server thread/INFO]: JustDiving, _0x40_
-[21:46:30] [Server thread/INFO]: There are 2/20 players online:
-[21:46:30] [Server thread/INFO]: JustDiving, _0x40_
-[21:51:00] [Server thread/INFO]: Server manually started a backup...
-[21:51:00] [Thread-30/INFO]: Backup starting - prepare for possible lag...
-[21:51:01] [Thread-30/INFO]: Worlds saved.
-[21:51:30] [Thread-30/INFO]: Backup finished.
-[21:56:30] [Server thread/INFO]: There are 2/20 players online:
-[21:56:30] [Server thread/INFO]: JustDiving, _0x40_
-[22:06:30] [Server thread/INFO]: There are 2/20 players online:
-[22:06:30] [Server thread/INFO]: JustDiving, _0x40_
-[22:07:25] [Server thread/INFO]: Server manually started a backup...
-[22:07:25] [Thread-32/INFO]: Backup starting - prepare for possible lag...
-[22:07:25] [Thread-32/INFO]: Worlds saved.
-[22:07:54] [Thread-32/INFO]: Backup finished.
-[22:16:31] [Server thread/INFO]: There are 2/20 players online:
-[22:16:31] [Server thread/INFO]: JustDiving, _0x40_
-[22:17:17] [Server thread/INFO]: JustDiving lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[22:17:17] [Server thread/INFO]: JustDiving left the game
-[22:23:53] [Server thread/INFO]: Server manually started a backup...
-[22:23:53] [Thread-35/INFO]: Backup starting - prepare for possible lag...
-[22:23:54] [Thread-35/INFO]: Worlds saved.
-[22:24:23] [Thread-35/INFO]: Backup finished.
-[22:26:31] [Server thread/INFO]: There are 1/20 players online:
-[22:26:31] [Server thread/INFO]: _0x40_
-[22:36:31] [Server thread/INFO]: There are 1/20 players online:
-[22:36:31] [Server thread/INFO]: _0x40_
-[22:40:21] [Server thread/INFO]: Server manually started a backup...
-[22:40:21] [Thread-37/INFO]: Backup starting - prepare for possible lag...
-[22:40:23] [Thread-37/INFO]: Worlds saved.
-[22:40:51] [Thread-37/INFO]: Backup finished.
-[22:42:36] [User Authenticator #4/INFO]: UUID of player flfloflflo is a8f6a6e1-6e37-44bb-b388-6489f06d63bc
-[22:42:37] [Server thread/INFO]: flfloflflo[/85.201.76.90:53767] logged in with entity id 104012 at (362.67151937901934, 68.0, -656.2011330248636)
-[22:42:37] [Server thread/INFO]: flfloflflo joined the game
-[22:42:45] [Server thread/INFO]: <_0x40_> hello!
-[22:42:53] [Server thread/INFO]: <_0x40_> we're in mv now
-[22:43:12] [Server thread/INFO]: <flfloflflo> I excpeted no less of you
-[22:43:41] [Server thread/INFO]: <flfloflflo> how did you do about the gallium arsenic challenge ?
-[22:44:25] [Server thread/INFO]: <_0x40_> I just used cobalt
-[22:44:37] [Server thread/INFO]: <_0x40_> from twilight forest
-[22:44:41] [Server thread/INFO]: <flfloflflo> hum?
-[22:44:46] [Server thread/INFO]: <flfloflflo> didn't know about that
-[22:46:29] [Server thread/INFO]: <flfloflflo> and where is the mv line ?
-[22:46:31] [Server thread/INFO]: There are 2/20 players online:
-[22:46:31] [Server thread/INFO]: _0x40_, flfloflflo
-[22:47:20] [Server thread/INFO]: <_0x40_> I'm waiting for aluminium rn for an mv combustion gen
-[22:47:36] [Server thread/INFO]: <flfloflflo> so we can replace the 4 lv ?
-[22:47:43] [Server thread/INFO]: <flfloflflo> or to build a new line
-[22:48:08] [Server thread/INFO]: <flfloflflo> because this was stupid but the only way
-[22:48:41] [Server thread/INFO]: <flfloflflo> hooo, you changed the cables
-[22:49:26] [Server thread/INFO]: <flfloflflo> you know that I have disabled the explosion of machine in the rain ?
-[22:49:28] [Server thread/INFO]: <_0x40_> I planned on powering just the mv electrolyzer with it, since that's the only mv machine I got
-[22:49:37] [Server thread/INFO]: <_0x40_> oh
-[22:50:16] [Server thread/INFO]: <flfloflflo> The only reason is that I don't want a whole line of machine to blow up for no reason
-[22:50:26] [Server thread/INFO]: <flfloflflo> since most of the people on the server are newbie
-[22:50:41] [Server thread/INFO]: <_0x40_> yeah that's resonable I guess
-[22:50:49] [Server thread/INFO]: <flfloflflo> and other pack like nomi have it disabled by default
-[22:51:12] [Server thread/INFO]: <flfloflflo> also, overvolting destroy the machine but don't make it explode
-[22:51:59] [Server thread/INFO]: <flfloflflo> did the server stop at 8 pm ?
-[22:52:06] [Server thread/INFO]: <_0x40_> yeah it did
-[22:52:18] [Server thread/INFO]: <flfloflflo> from behing empty ?
-[22:52:29] [Server thread/INFO]: <flfloflflo> or aws?
-[22:52:30] [Server thread/INFO]: <_0x40_> no it just stopped while I was on
-[22:52:47] [Server thread/INFO]: <flfloflflo> you got the 'server closed' message ?
-[22:52:47] [Server thread/INFO]: <_0x40_> yeah probably aws
-[22:53:17] [Server thread/INFO]: <flfloflflo> so my code is working ...
-[22:53:23] [Server thread/INFO]: <_0x40_> nice
-[22:53:32] [Server thread/INFO]: <flfloflflo> I don't know what happened on the first day
-[22:53:45] [Server thread/INFO]: <flfloflflo> I didn't change the spot watcher
-[22:54:14] [Server thread/INFO]: <flfloflflo> I'm going to change the instance size. Reducing the cpu from 4 to 2
-[22:54:23] [Server thread/INFO]: <_0x40_> ah alright
-[22:54:35] [Server thread/INFO]: <flfloflflo> It's very smooth, I want to see if cheaper is fine to
-[22:54:37] [Server thread/INFO]: <flfloflflo> oo
-[22:55:01] [Server thread/INFO]: <flfloflflo> I suppose you didn't see any performance issue ?
-[22:55:15] [Server thread/INFO]: <_0x40_> no not really
-[22:55:26] [Server thread/INFO]: <flfloflflo> alright, I'm going to try then
-[22:55:34] [Server thread/INFO]: <flfloflflo> see if 2 cpu is enough
-[22:56:07] [Server thread/INFO]: <flfloflflo> also, we need more disk space ^^
-[22:56:31] [Server thread/INFO]: There are 2/20 players online:
-[22:56:31] [Server thread/INFO]: _0x40_, flfloflflo
-[22:56:51] [Server thread/INFO]: <_0x40_> yeah it would be bad if it got full and it failed to make the backup
-[22:56:51] [Server thread/INFO]: Server manually started a backup...
-[22:56:51] [Thread-42/INFO]: Backup starting - prepare for possible lag...
-[22:56:52] [Thread-42/INFO]: Worlds saved.
-[22:57:21] [Thread-42/INFO]: Backup finished.
-[22:59:55] [Server thread/INFO]: <flfloflflo> the 2 cpu config is 3 cent and hours
-[23:00:50] [Server thread/INFO]: <flfloflflo> I'm going to try it
-[23:01:00] [Server thread/INFO]: <_0x40_> alright
-[23:05:16] [Server thread/INFO]: <flfloflflo> you mind if we restart to two cpu now ?
-[23:05:22] [Server thread/INFO]: <_0x40_> go ahead
-[23:05:26] [Server thread/INFO]: [flfloflflo: Stopping the server]
-[23:05:26] [Server thread/INFO]: Stopping server
-[23:05:26] [Server thread/INFO]: Saving players
-[23:05:26] [Server thread/INFO]: Saving worlds
-[23:05:26] [Server thread/INFO]: Saving chunks for level 'World'/Overworld
-[23:05:26] [Server thread/INFO]: Saving chunks for level 'World'/Nether
-[23:05:26] [Server thread/INFO]: Saving chunks for level 'World'/Miranda
-[23:05:26] [Server thread/INFO]: Saving chunks for level 'World'/T Ceti E
-[23:05:26] [Server thread/INFO]: Saving chunks for level 'World'/Vega B
-[23:05:26] [Server thread/INFO]: Saving chunks for level 'World'/Haumea
-[23:05:26] [Server thread/INFO]: Saving chunks for level 'World'/Barnarda F
-[23:05:26] [Server thread/INFO]: Saving chunks for level 'World'/Barnarda E
-[23:05:26] [Server thread/INFO]: Saving chunks for level 'World'/Outer Lands
-[23:05:26] [Server thread/INFO]: Saving chunks for level 'World'/Saturn
-[23:05:26] [Server thread/INFO]: Saving chunks for level 'World'/Neptune
-[23:05:26] [Server thread/INFO]: Saving chunks for level 'World'/Jupiter
-[23:05:26] [Server thread/INFO]: Saving chunks for level 'World'/Mirror
-[23:05:26] [Server thread/INFO]: Saving chunks for level 'World'/Pocket Plane
-[23:05:26] [Server thread/INFO]: Saving chunks for level 'World'/Ross128b
-[23:05:26] [Server thread/INFO]: Saving chunks for level 'World'/Ross128ba
-[23:05:26] [Server thread/INFO]: Saving chunks for level 'World'/Bedrock
-[23:05:26] [Server thread/INFO]: Saving chunks for level 'World'/Torment
-[23:05:26] [Server thread/INFO]: Saving chunks for level 'World'/Spirit World
-[23:05:26] [Server thread/INFO]: Saving chunks for level 'World'/Uranus
-[23:05:26] [Server thread/INFO]: Saving chunks for level 'World'/The Outer Lands
-[23:05:26] [Server thread/INFO]: Saving chunks for level 'World'/Pluto
-[23:05:26] [Server thread/INFO]: Saving chunks for level 'World'/Triton
-[23:05:26] [Server thread/INFO]: Saving chunks for level 'World'/Proteus
-[23:05:26] [Server thread/INFO]: Saving chunks for level 'World'/Oberon
-[23:05:26] [Server thread/INFO]: Saving chunks for level 'World'/Callisto
-[23:05:26] [Server thread/INFO]: Saving chunks for level 'World'/Titan
-[23:05:26] [Server thread/INFO]: Saving chunks for level 'World'/Ganymede
-[23:05:26] [Server thread/INFO]: Saving chunks for level 'World'/Ceres
-[23:05:26] [Server thread/INFO]: Saving chunks for level 'World'/Enceladus
-[23:05:26] [Server thread/INFO]: Saving chunks for level 'World'/Deimos
-[23:05:26] [Server thread/INFO]: Saving chunks for level 'World'/Venus
-[23:05:26] [Server thread/INFO]: Saving chunks for level 'World'/Phobos
-[23:05:26] [Server thread/INFO]: Saving chunks for level 'World'/Mercury
-[23:05:26] [Server thread/INFO]: Saving chunks for level 'World'/dimensionDarkWorld
-[23:05:26] [Server thread/INFO]: Saving chunks for level 'World'/Io
-[23:05:26] [Server thread/INFO]: Saving chunks for level 'World'/Europa
-[23:05:26] [Server thread/INFO]: Saving chunks for level 'World'/Kuiper Belt
-[23:05:26] [Server thread/INFO]: Saving chunks for level 'World'/Barnarda C
-[23:05:26] [Server thread/INFO]: Saving chunks for level 'World'/α Centauri Bb
-[23:05:26] [Server thread/INFO]: Saving chunks for level 'World'/Asteroids
-[23:05:26] [Server thread/INFO]: Saving chunks for level 'World'/Mars
-[23:05:26] [Server thread/INFO]: Saving chunks for level 'World'/Moon
-[23:05:26] [Server thread/INFO]: Saving chunks for level 'World'/Makemake
-[23:05:26] [Server thread/INFO]: Saving chunks for level 'World'/The Last Millenium
-[23:05:26] [Server thread/INFO]: Saving chunks for level 'World'/Twilight Forest
-[23:05:26] [Server thread/INFO]: Saving chunks for level 'World'/Underdark
-[23:05:26] [Server thread/INFO]: Saving chunks for level 'World'/SpectreWorld
+[00:08:34] [Server thread/INFO]: There are 1/20 players online:
+[00:08:34] [Server thread/INFO]: _0x40_
+[00:12:49] [Server thread/INFO]: Server manually started a backup...
+[00:12:49] [Thread-27/INFO]: Backup starting - prepare for possible lag...
+[00:12:50] [Thread-27/INFO]: Worlds saved.
+[00:13:16] [Thread-27/INFO]: Backup finished.
+[00:18:34] [Server thread/INFO]: There are 1/20 players online:
+[00:18:34] [Server thread/INFO]: _0x40_
+[00:28:34] [Server thread/INFO]: There are 1/20 players online:
+[00:28:34] [Server thread/INFO]: _0x40_
+[00:29:10] [Server thread/INFO]: Server manually started a backup...
+[00:29:10] [Thread-29/INFO]: Backup starting - prepare for possible lag...
+[00:29:11] [Thread-29/INFO]: Worlds saved.
+[00:29:38] [Thread-29/INFO]: Backup finished.
+[00:38:34] [Server thread/INFO]: There are 1/20 players online:
+[00:38:34] [Server thread/INFO]: _0x40_
+[00:45:36] [Server thread/INFO]: Server manually started a backup...
+[00:45:36] [Thread-31/INFO]: Backup starting - prepare for possible lag...
+[00:45:37] [Thread-31/INFO]: Worlds saved.
+[00:46:03] [Thread-31/INFO]: Backup finished.
+[00:48:34] [Server thread/INFO]: There are 1/20 players online:
+[00:48:35] [Server thread/INFO]: _0x40_
+[00:58:35] [Server thread/INFO]: There are 1/20 players online:
+[00:58:35] [Server thread/INFO]: _0x40_
+[01:02:03] [Server thread/INFO]: Server manually started a backup...
+[01:02:03] [Thread-33/INFO]: Backup starting - prepare for possible lag...
+[01:02:04] [Thread-33/INFO]: Worlds saved.
+[01:02:32] [Thread-33/INFO]: Backup finished.
+[01:08:35] [Server thread/INFO]: There are 1/20 players online:
+[01:08:35] [Server thread/INFO]: _0x40_
+[01:18:27] [Server thread/INFO]: Server manually started a backup...
+[01:18:27] [Thread-35/INFO]: Backup starting - prepare for possible lag...
+[01:18:28] [Thread-35/INFO]: Worlds saved.
+[01:18:35] [Server thread/INFO]: There are 1/20 players online:
+[01:18:35] [Server thread/INFO]: _0x40_
+[01:18:57] [Thread-35/INFO]: Backup finished.
+[01:28:35] [Server thread/INFO]: There are 1/20 players online:
+[01:28:35] [Server thread/INFO]: _0x40_
+[01:34:47] [Server thread/INFO]: Server manually started a backup...
+[01:34:47] [Thread-37/INFO]: Backup starting - prepare for possible lag...
+[01:34:48] [Thread-37/INFO]: Worlds saved.
+[01:35:15] [Thread-37/INFO]: Backup finished.
+[01:38:35] [Server thread/INFO]: There are 1/20 players online:
+[01:38:35] [Server thread/INFO]: _0x40_
+[01:43:58] [Server thread/INFO]: _0x40_ lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[01:43:58] [Server thread/INFO]: _0x40_ left the game
+[01:48:35] [Server thread/INFO]: There are 0/20 players online:
+[01:48:35] [Server thread/INFO]: 
+[01:51:14] [Server thread/INFO]: Server manually started a backup...
+[01:51:14] [Thread-40/INFO]: Backup starting - prepare for possible lag...
+[01:51:14] [Thread-40/INFO]: Worlds saved.
+[01:51:40] [Thread-40/INFO]: Backup finished.
+[01:58:35] [Server thread/INFO]: There are 0/20 players online:
+[01:58:35] [Server thread/INFO]: 
+[02:07:31] [Server thread/INFO]: Server manually started a backup...
+[02:07:31] [Thread-42/INFO]: Backup starting - prepare for possible lag...
+[02:07:31] [Thread-42/INFO]: Worlds saved.
+[02:07:56] [Thread-42/INFO]: Backup finished.
+[02:08:35] [Server thread/INFO]: There are 0/20 players online:
+[02:08:35] [Server thread/INFO]: 
+[02:08:36] [Server thread/INFO]: Stopping the server
+[02:08:36] [Server thread/INFO]: Stopping server
+[02:08:36] [Server thread/INFO]: Saving players
+[02:08:36] [Server thread/INFO]: Saving worlds
+[02:08:36] [Server thread/INFO]: Saving chunks for level 'World'/Overworld
+[02:08:37] [Server thread/INFO]: Saving chunks for level 'World'/Nether
+[02:08:37] [Server thread/INFO]: Saving chunks for level 'World'/Miranda
+[02:08:37] [Server thread/INFO]: Saving chunks for level 'World'/T Ceti E
+[02:08:37] [Server thread/INFO]: Saving chunks for level 'World'/Vega B
+[02:08:37] [Server thread/INFO]: Saving chunks for level 'World'/Haumea
+[02:08:37] [Server thread/INFO]: Saving chunks for level 'World'/Barnarda F
+[02:08:37] [Server thread/INFO]: Saving chunks for level 'World'/Barnarda E
+[02:08:37] [Server thread/INFO]: Saving chunks for level 'World'/Outer Lands
+[02:08:37] [Server thread/INFO]: Saving chunks for level 'World'/Saturn
+[02:08:37] [Server thread/INFO]: Saving chunks for level 'World'/Neptune
+[02:08:37] [Server thread/INFO]: Saving chunks for level 'World'/Jupiter
+[02:08:37] [Server thread/INFO]: Saving chunks for level 'World'/Mirror
+[02:08:37] [Server thread/INFO]: Saving chunks for level 'World'/Pocket Plane
+[02:08:37] [Server thread/INFO]: Saving chunks for level 'World'/Ross128b
+[02:08:37] [Server thread/INFO]: Saving chunks for level 'World'/Ross128ba
+[02:08:37] [Server thread/INFO]: Saving chunks for level 'World'/Bedrock
+[02:08:37] [Server thread/INFO]: Saving chunks for level 'World'/Torment
+[02:08:37] [Server thread/INFO]: Saving chunks for level 'World'/Spirit World
+[02:08:37] [Server thread/INFO]: Saving chunks for level 'World'/Uranus
+[02:08:37] [Server thread/INFO]: Saving chunks for level 'World'/The Outer Lands
+[02:08:37] [Server thread/INFO]: Saving chunks for level 'World'/Pluto
+[02:08:37] [Server thread/INFO]: Saving chunks for level 'World'/Triton
+[02:08:37] [Server thread/INFO]: Saving chunks for level 'World'/Proteus
+[02:08:37] [Server thread/INFO]: Saving chunks for level 'World'/Oberon
+[02:08:37] [Server thread/INFO]: Saving chunks for level 'World'/Callisto
+[02:08:37] [Server thread/INFO]: Saving chunks for level 'World'/Titan
+[02:08:37] [Server thread/INFO]: Saving chunks for level 'World'/Ganymede
+[02:08:37] [Server thread/INFO]: Saving chunks for level 'World'/Ceres
+[02:08:37] [Server thread/INFO]: Saving chunks for level 'World'/Enceladus
+[02:08:37] [Server thread/INFO]: Saving chunks for level 'World'/Deimos
+[02:08:37] [Server thread/INFO]: Saving chunks for level 'World'/Venus
+[02:08:37] [Server thread/INFO]: Saving chunks for level 'World'/Phobos
+[02:08:37] [Server thread/INFO]: Saving chunks for level 'World'/Mercury
+[02:08:37] [Server thread/INFO]: Saving chunks for level 'World'/dimensionDarkWorld
+[02:08:37] [Server thread/INFO]: Saving chunks for level 'World'/Io
+[02:08:37] [Server thread/INFO]: Saving chunks for level 'World'/Europa
+[02:08:37] [Server thread/INFO]: Saving chunks for level 'World'/Kuiper Belt
+[02:08:37] [Server thread/INFO]: Saving chunks for level 'World'/Barnarda C
+[02:08:37] [Server thread/INFO]: Saving chunks for level 'World'/α Centauri Bb
+[02:08:37] [Server thread/INFO]: Saving chunks for level 'World'/Asteroids
+[02:08:37] [Server thread/INFO]: Saving chunks for level 'World'/Mars
+[02:08:37] [Server thread/INFO]: Saving chunks for level 'World'/Moon
+[02:08:37] [Server thread/INFO]: Saving chunks for level 'World'/Makemake
+[02:08:37] [Server thread/INFO]: Saving chunks for level 'World'/The Last Millenium
+[02:08:37] [Server thread/INFO]: Saving chunks for level 'World'/Twilight Forest
+[02:08:37] [Server thread/INFO]: Saving chunks for level 'World'/Underdark
+[02:08:37] [Server thread/INFO]: Saving chunks for level 'World'/SpectreWorld
